@@ -12,7 +12,6 @@
 
 ### Problem description
 ```
-
 BOOKS
 - there are B different books
 - many libraries can have a copy of the same book, but we only need
@@ -42,3 +41,13 @@ other signup processes running
 ```
 
 ### Input data set
+```
+Plain-text files, delimited by '\n' characters.
+
+- First line: B L D
+- Second line: S[0], S[1], ..., S[B-1]
+
+L sections, each describing individual libraries
+- First line: N T M
+- Second line: ID[0], ID[1], ..., ID[N-1]
+```
