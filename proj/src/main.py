@@ -69,7 +69,15 @@ def read_file(input_file):
 
             # read book scores
             case "B":
-                print("B")
+                # split line and create Book objects
+                for book in line.split(" "):
+                    books.append(Book(int(book)))
+
+                # print book scores
+                print("Book scores: ", [str(book) for book in books])
+
+                # change state
+                state = "C"
 
             # read library information
             case "C":
