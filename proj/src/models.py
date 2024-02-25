@@ -5,6 +5,9 @@ class Book:
     def get_score(self):
         return self.score
     
+    def __str__(self):
+        return str(self.score)
+    
 class Library:
     def __init__(self, books, signup_time, books_per_day):
         self.books = books

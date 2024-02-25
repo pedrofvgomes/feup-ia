@@ -1,4 +1,5 @@
 import sys
+from models import Library, Book
 
 def read_file(input_file):
     # if the file is found, print success
@@ -26,6 +27,16 @@ def read_file(input_file):
     books = []
     libraries = []
 
+    """
+    VARIABLES 
+    - num_books - number of books in the library
+    - num_libraries - number of libraries in the library
+    - num_days - number of days to scan the library
+    """
+    num_books = 0
+    num_libraries = 0
+    num_days = 0
+
     # print lines until the file ends
     while True:
         # try to read line
@@ -40,7 +51,21 @@ def read_file(input_file):
         match state:
             # read number of books, libraries, and days
             case "A":
-                print("A")
+                # split line
+                temp = line.split(" ")
+
+                # assign values
+                num_books = int(temp[0])
+                num_libraries = int(temp[1])
+                num_days = int(temp[2])
+
+                # print values
+                print("Number of books: " + str(num_books))
+                print("Number of libraries: " + str(num_libraries))
+                print("Number of days: " + str(num_days))
+
+                # change state
+                state = "B"
 
             # read book scores
             case "B":

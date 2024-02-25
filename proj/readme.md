@@ -43,6 +43,7 @@ other signup processes running
 ### Input data set
 ```
 Plain-text files, delimited by '\n' characters.
+For state-management purposes, we'll name these stages from A to C
 
 - First line: B L D
 - Second line: S[0], S[1], ..., S[B-1]
