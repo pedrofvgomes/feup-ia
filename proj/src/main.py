@@ -16,6 +16,8 @@ def read_file(input_file):
     A - read number of books, libraries, and days
     B - read book scores
     C - read library information
+        C1 - read number of books, signup time, and books per day
+        C2 - read book IDs
     """
     state = "A"
 
@@ -45,7 +47,7 @@ def read_file(input_file):
         # file ended
         if not line:
             print("File reading complete!")
-            return
+            return libraries
         
         # handle line
         match state:
@@ -59,11 +61,6 @@ def read_file(input_file):
                 num_libraries = int(temp[1])
                 num_days = int(temp[2])
 
-                # print values
-                print("Number of books: " + str(num_books))
-                print("Number of libraries: " + str(num_libraries))
-                print("Number of days: " + str(num_days))
-
                 # change state
                 state = "B"
 
@@ -73,16 +70,39 @@ def read_file(input_file):
                 for book in line.split(" "):
                     books.append(Book(int(book)))
 
-                # print book scores
-                print("Book scores: ", [str(book) for book in books])
-
                 # change state
-                state = "C"
+                state = "C1"
 
             # read library information
-            case "C":
-                print("C")
-            
+            case "C1":                
+                # split line
+                temp = line.split(" ")
+
+                # assign values
+                n = int(temp[0])
+                t = int(temp[1])
+                m = int(temp[2])
+
+                # create library object
+                libraries.append(Library([], t, m))
+
+                # change state
+                state = "C2"
+
+            # read book IDs
+            case "C2":
+                # split line and add books to library
+                for book in line.split(" "):
+                    libraries[-1].books.append(books[int(book)])
+
+                # if n is different from the number of books in the library, print error
+                if len(libraries[-1].books) != n:
+                    print("Error: Number of books in library " + str(len(libraries)) + " is not equal to " + str(n))
+                    return
+
+                # change state
+                state = "C1"
+
             # default case, return
             case _:
                 return
