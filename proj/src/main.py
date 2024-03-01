@@ -107,6 +107,7 @@ def read_file(input_file):
             case _:
                 return
 
+
 def main():
     # take the first argument as the input file
     if len(sys.argv) < 2:
