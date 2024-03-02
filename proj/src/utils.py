@@ -56,9 +56,14 @@ def read_file(input_file):
                 temp = line.split(" ")
 
                 # assign values
-                num_books = int(temp[0])
-                num_libraries = int(temp[1])
-                num_days = int(temp[2])
+                try:
+                    num_books = int(temp[0])
+                    num_libraries = int(temp[1])
+                    num_days = int(temp[2])
+                except (IndexError, ValueError):
+                    print("Error: Invalid file")
+                    return
+                    
 
                 # change state
                 state = "B"
@@ -78,10 +83,14 @@ def read_file(input_file):
                 temp = line.split(" ")
 
                 # assign values
-                n = int(temp[0])
-                t = int(temp[1])
-                m = int(temp[2])
-
+                try:
+                    n = int(temp[0])
+                    t = int(temp[1])
+                    m = int(temp[2])
+                except (IndexError, ValueError):
+                    print("Error: Invalid file")
+                    return
+                
                 # create library object
                 libraries.append(Library([], t, m))
 
