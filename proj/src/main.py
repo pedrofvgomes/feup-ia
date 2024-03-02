@@ -1,6 +1,6 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget, QFileDialog, QGridLayout, QHBoxLayout, QGraphicsDropShadowEffect
-from PyQt5.QtGui import QPixmap, QCursor, QColor
+from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QWidget, QGraphicsDropShadowEffect, QHBoxLayout, QVBoxLayout
+from PyQt5.QtGui import QPixmap, QCursor, QColor, QFont
 from PyQt5 import QtGui, QtCore
 
 
@@ -12,41 +12,58 @@ def main():
     window.setFixedHeight(600)
     window.setStyleSheet('background: #3d314a;')
     window.setWindowIcon(QtGui.QIcon('proj/assets/books.png'))
-    
-    grid = QGridLayout()
-    
+
+    main_layout = QVBoxLayout()
+    main_layout.setSpacing(35)
+
     image = QPixmap('proj/assets/books.png')
-    image = image.scaled(100, 100)
+    image = image.scaled(120, 120)
     logo = QLabel()
     logo.setPixmap(image)
-    logo.setStyleSheet('margin-left: 140px; margin-right: 20px;')
-    
+    logo.setStyleSheet('margin-left: 120px;')
+
     title = QLabel('Book Scanning')
-    title.setStyleSheet('font-size: 50px; font-weight: bold; color: white; margin-left: 0;')
-        
-    button = QPushButton('Import Libraries')
-    button.setCursor(QCursor(QtCore.Qt.PointingHandCursor))
-    button.setStyleSheet('QPushButton{ color: white; background: #684756; font-size: 30px; font-weight: bold; padding: 15px 30px; border-radius: 25px; margin-top: 0;} QPushButton:hover{background: #705665;}')
-    button.setFixedWidth(350)
-    
+    title.setStyleSheet('font-size: 50px; font-weight: bold; color: white; margin-right: 120px;')
+    title.setFont(QFont('Segoe UI Black', 50))
+
+    title_layout = QHBoxLayout()
+    title_layout.addWidget(logo, alignment=QtCore.Qt.AlignCenter)
+    title_layout.addWidget(title, alignment=QtCore.Qt.AlignCenter)
+
+    main_layout.addLayout(title_layout)
+
+    import_libraries = QPushButton('Import Libraries')
+    import_libraries.setFont(QFont('Segoe UI Black', 30))
+    import_libraries.setCursor(QCursor(QtCore.Qt.PointingHandCursor))
+    import_libraries.setStyleSheet('QPushButton{ color: white; background: #684756; font-size: 30px; font-weight: bold; padding: 15px 30px; border-radius: 25px;} QPushButton:hover{background: #705665;}')
+
+    quit_button = QPushButton('Quit')
+    quit_button.setFont(QFont('Segoe UI Black', 30))
+    quit_button.setCursor(QCursor(QtCore.Qt.PointingHandCursor))
+    quit_button.setStyleSheet('QPushButton{ color: white; background: #684756; font-size: 30px; font-weight: bold; padding: 15px 30px; border-radius: 25px;} QPushButton:hover{background: #705665;}')
+
     effect = QGraphicsDropShadowEffect()
     effect.setBlurRadius(30)
     effect.setColor(QColor(0, 0, 0, 50))
     effect.setOffset(0, 4)
-    button.setGraphicsEffect(effect)
-    
-    logo_title_layout = QHBoxLayout()
-    logo_title_layout.addWidget(logo)
-    logo_title_layout.addWidget(title)
-    logo_title_layout.setContentsMargins(0, 0, 0, 0)
-    
-    grid.addLayout(logo_title_layout, 0, 0, 1, 1)
-    grid.addWidget(button, 1, 0, 1, 2, alignment=QtCore.Qt.AlignCenter)
-    
-    window.setLayout(grid)
+    import_libraries.setGraphicsEffect(effect)
+    effect = QGraphicsDropShadowEffect()
+    effect.setBlurRadius(30)
+    effect.setColor(QColor(0, 0, 0, 50))
+    effect.setOffset(0, 4)
+    quit_button.setGraphicsEffect(effect)
+
+    button_layout = QVBoxLayout()
+    button_layout.addWidget(import_libraries, alignment=QtCore.Qt.AlignCenter)
+    button_layout.addWidget(quit_button, alignment=QtCore.Qt.AlignCenter)
+
+    main_layout.addLayout(button_layout)
+    main_layout.setAlignment(QtCore.Qt.AlignCenter)
+
+    window.setLayout(main_layout)
     window.show()
     sys.exit(app.exec())
-    
-    
+
+
 if __name__ == "__main__":
     main()
