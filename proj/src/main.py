@@ -1,6 +1,6 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget, QFileDialog, QHBoxLayout, QFrame
-from PyQt5.QtGui import QPixmap, QFont, QCursor
+from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget, QFileDialog, QHBoxLayout, QGraphicsDropShadowEffect
+from PyQt5.QtGui import QPixmap, QFont, QCursor, QColor
 from PyQt5 import QtGui, QtCore
 from utils import read_file
 
@@ -31,15 +31,10 @@ def clear_widgets():
         for _ in range(0, len(widgets[widget])):
             widgets[widget].pop()
 
-
-def show_main_menu():
+def show_main_menu(error=""):
     clear_widgets()
-    main_menu()
+    main_menu(error)
     
-def show_main_menu_error(error=""):
-    clear_widgets()
-    main_menu_error(error)
-
 def create_button(text):
     button = QPushButton(text)
     button.setFont(QFont('Segoe UI Black', 30))
@@ -47,7 +42,6 @@ def create_button(text):
     button.setStyleSheet('QPushButton{ color: white; background: #684756; font-size: 30px; font-weight: bold; padding: 15px 30px; border-radius: 25px; margin-bottom: 20px; } QPushButton:hover{background: #705665;}')
     button.setFixedWidth(300)
     return button
-
 
 def import_libraries():
     filename = QFileDialog.getOpenFileName(window, 'Import Libraries', 'proj/', 'Text Files (*.txt)')[0]
@@ -57,19 +51,18 @@ def import_libraries():
         if libraries:
             print('top!')
         else:
-            show_main_menu_error('Error: Invalid file')
-            
-            
-def main_menu():
+            show_main_menu('Error: Invalid file')
+             
+def main_menu(error=""):
     image = QPixmap('proj/assets/books.png')
     image = image.scaled(120, 120)
     logo = QLabel()
     logo.setPixmap(image)
-    logo.setStyleSheet('margin-left: 120px; margin-top: 80px;')
+    logo.setStyleSheet('margin-left: 120px; margin-bottom: 20px;')
     widgets["logo"].append(logo)
 
     title = QLabel('Book Scanning')
-    title.setStyleSheet('font-size: 50px; font-weight: bold; color: white; margin-right: 120px; margin-top: 80px;')
+    title.setStyleSheet('font-size: 50px; font-weight: bold; color: white; margin-right: 120px; margin-bottom: 20px;')
     title.setFont(QFont('Segoe UI Black', 50))
     widgets["title"].append(title)
 
@@ -82,45 +75,29 @@ def main_menu():
     import_button.clicked.connect(import_libraries)
     widgets["import"].append(import_button)
     layout.addWidget(widgets["import"][-1], alignment=QtCore.Qt.AlignCenter)
+    
+    if error:
+        error_label = QLabel(error)
+        error_label.setStyleSheet('font-size: 20px; font-weight: bold; color: red; margin-bottom: 20px;')
+        widgets["error"].append(error_label)
+        layout.addWidget(widgets["error"][-1], alignment=QtCore.Qt.AlignCenter)
 
     quit_button = create_button('Quit')
     quit_button.clicked.connect(app.quit)
     widgets["quit"].append(quit_button)
     layout.addWidget(widgets["quit"][-1], alignment=QtCore.Qt.AlignCenter)
+    
+    effect = QGraphicsDropShadowEffect()
+    effect.setBlurRadius(30)
+    effect.setColor(QColor(0, 0, 0, 50))
+    effect.setOffset(0, 4)
+    import_button.setGraphicsEffect(effect)
+    effect = QGraphicsDropShadowEffect()
+    effect.setBlurRadius(30)
+    effect.setColor(QColor(0, 0, 0, 50))
+    effect.setOffset(0, 4)
+    quit_button.setGraphicsEffect(effect)
         
-def main_menu_error(error=""):
-    image = QPixmap('proj/assets/books.png')
-    image = image.scaled(120, 120)
-    logo = QLabel()
-    logo.setPixmap(image)
-    logo.setStyleSheet('margin-left: 120px; margin-top: 80px;')
-    widgets["logo"].append(logo)
-
-    title = QLabel('Book Scanning')
-    title.setStyleSheet('font-size: 50px; font-weight: bold; color: white; margin-right: 120px; margin-top: 80px;')
-    title.setFont(QFont('Segoe UI Black', 50))
-    widgets["title"].append(title)
-
-    title_box = QHBoxLayout()
-    title_box.addWidget(widgets["logo"][-1])
-    title_box.addWidget(widgets["title"][-1])
-    layout.addLayout(title_box)
-
-    import_button = create_button('Import Libraries')
-    import_button.clicked.connect(import_libraries)
-    widgets["import"].append(import_button)
-    layout.addWidget(widgets["import"][-1], alignment=QtCore.Qt.AlignCenter)
-
-    error_label = QLabel(error)
-    error_label.setStyleSheet('font-size: 20px; font-weight: bold; color: red; margin-bottom: 20px;')
-    widgets["error"].append(error_label)
-    layout.addWidget(widgets["error"][-1], alignment=QtCore.Qt.AlignCenter)
-
-    quit_button = create_button('Quit')
-    quit_button.clicked.connect(app.quit)
-    widgets["quit"].append(quit_button)
-    layout.addWidget(widgets["quit"][-1], alignment=QtCore.Qt.AlignCenter)
-
 main_menu()
 
 window.setLayout(layout)
