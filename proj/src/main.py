@@ -1,123 +1,52 @@
 import sys
-from models import Library, Book
-
-def read_file(input_file):
-    # if the file is found, print success
-    # otherwise, print error
-    try:
-        f = open(input_file, "r")
-        print("File found!")
-    except FileNotFoundError:
-        print("File not found!")
-        return
-    
-    """
-    STATE MANAGEMENT:
-    A - read number of books, libraries, and days
-    B - read book scores
-    C - read library information
-        C1 - read number of books, signup time, and books per day
-        C2 - read book IDs
-    """
-    state = "A"
-
-    """
-    DATA STRUCTURES
-    - books - list of book scores, that will be used to assign to libraries
-    - libraries - list of libraries, that'll be returned
-    """
-    books = []
-    libraries = []
-
-    """
-    VARIABLES 
-    - num_books - number of books in the library
-    - num_libraries - number of libraries in the library
-    - num_days - number of days to scan the library
-    """
-    num_books = 0
-    num_libraries = 0
-    num_days = 0
-
-    # print lines until the file ends
-    while True:
-        # try to read line
-        line = f.readline()
-
-        # file ended
-        if not line:
-            print("File reading complete!")
-            return libraries
-        
-        # handle line
-        match state:
-            # read number of books, libraries, and days
-            case "A":
-                # split line
-                temp = line.split(" ")
-
-                # assign values
-                num_books = int(temp[0])
-                num_libraries = int(temp[1])
-                num_days = int(temp[2])
-
-                # change state
-                state = "B"
-
-            # read book scores
-            case "B":
-                # split line and create Book objects
-                for book in line.split(" "):
-                    books.append(Book(int(book)))
-
-                # change state
-                state = "C1"
-
-            # read library information
-            case "C1":                
-                # split line
-                temp = line.split(" ")
-
-                # assign values
-                n = int(temp[0])
-                t = int(temp[1])
-                m = int(temp[2])
-
-                # create library object
-                libraries.append(Library([], t, m))
-
-                # change state
-                state = "C2"
-
-            # read book IDs
-            case "C2":
-                # split line and add books to library
-                for book in line.split(" "):
-                    libraries[-1].books.append(books[int(book)])
-
-                # if n is different from the number of books in the library, print error
-                if len(libraries[-1].books) != n:
-                    print("Error: Number of books in library " + str(len(libraries)) + " is not equal to " + str(n))
-                    return
-
-                # change state
-                state = "C1"
-
-            # default case, return
-            case _:
-                return
+from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget, QFileDialog, QGridLayout, QHBoxLayout, QGraphicsDropShadowEffect
+from PyQt5.QtGui import QPixmap, QCursor, QColor
+from PyQt5 import QtGui, QtCore
 
 
 def main():
-    # take the first argument as the input file
-    if len(sys.argv) < 2:
-        print("Usage: python main.py <input_file>")
-        return
+    app = QApplication(sys.argv)
+    window = QWidget()
+    window.setWindowTitle('Book Scanning')
+    window.setFixedWidth(800)
+    window.setFixedHeight(600)
+    window.setStyleSheet('background: #3d314a;')
+    window.setWindowIcon(QtGui.QIcon('proj/assets/books.png'))
     
-    input_file = sys.argv[1]
-    print("Reading '" + input_file + "'...")
+    grid = QGridLayout()
     
-    libraries = read_file(input_file)
-
+    image = QPixmap('proj/assets/books.png')
+    image = image.scaled(100, 100)
+    logo = QLabel()
+    logo.setPixmap(image)
+    logo.setStyleSheet('margin-left: 140px; margin-right: 20px;')
+    
+    title = QLabel('Book Scanning')
+    title.setStyleSheet('font-size: 50px; font-weight: bold; color: white; margin-left: 0;')
+        
+    button = QPushButton('Import Libraries')
+    button.setCursor(QCursor(QtCore.Qt.PointingHandCursor))
+    button.setStyleSheet('QPushButton{ color: white; background: #684756; font-size: 30px; font-weight: bold; padding: 15px 30px; border-radius: 25px; margin-top: 0;} QPushButton:hover{background: #705665;}')
+    button.setFixedWidth(350)
+    
+    effect = QGraphicsDropShadowEffect()
+    effect.setBlurRadius(30)
+    effect.setColor(QColor(0, 0, 0, 50))
+    effect.setOffset(0, 4)
+    button.setGraphicsEffect(effect)
+    
+    logo_title_layout = QHBoxLayout()
+    logo_title_layout.addWidget(logo)
+    logo_title_layout.addWidget(title)
+    logo_title_layout.setContentsMargins(0, 0, 0, 0)
+    
+    grid.addLayout(logo_title_layout, 0, 0, 1, 1)
+    grid.addWidget(button, 1, 0, 1, 2, alignment=QtCore.Qt.AlignCenter)
+    
+    window.setLayout(grid)
+    window.show()
+    sys.exit(app.exec())
+    
+    
 if __name__ == "__main__":
     main()
