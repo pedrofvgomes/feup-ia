@@ -54,6 +54,10 @@ def import_libraries():
                 show_main_menu('Error: Invalid file')
         except:
             show_main_menu('Error: Invalid file')
+            
+def scan_books(books, libraries, num_days):
+    print('Starting the sign-up and scanning process...')
+    # AQUI VAI SER A IMPLEMENTAÇÃO DO ALGORITMO DE SIGNUP E SCAN
              
 def main_menu(error=""):
     image = QPixmap('proj/assets/books.png')
@@ -101,7 +105,7 @@ def main_menu(error=""):
     quit_button.setGraphicsEffect(effect)
     
 def library_menu(books, libraries, num_days):
-    # logo and general info
+    # logo, general info and scan button
     top_layout = QHBoxLayout()
     
     # logo
@@ -109,6 +113,7 @@ def library_menu(books, libraries, num_days):
     image = image.scaled(60, 60)
     logo = QLabel()
     logo.setStyleSheet('margin-bottom: 30px;')
+    logo.setCursor(QCursor(QtCore.Qt.PointingHandCursor))
     logo.setPixmap(image)
     widgets.append(logo)
     top_layout.addWidget(logo)
@@ -117,9 +122,20 @@ def library_menu(books, libraries, num_days):
     
     # general info  
     general_info = QLabel(f'Number of books: {len(books)}\nNumber of libraries: {len(libraries)}\nNumber of days: {num_days}')
-    general_info.setStyleSheet('font-size: 15px; font-weight: bold; color: white; margin-right: 475px; margin-left: 25px; margin-bottom: 30px;')
+    general_info.setStyleSheet('font-size: 15px; font-weight: bold; color: white; margin-right: 150px; margin-left: 25px; margin-bottom: 30px;')
     widgets.append(general_info)
     top_layout.addWidget(general_info)
+    
+    # scan button
+    scan_button = create_button('Scan Books')
+    scan_button.clicked.connect(lambda: scan_books(books, libraries, num_days))
+    effect = QGraphicsDropShadowEffect()
+    effect.setBlurRadius(30)
+    effect.setColor(QColor(0, 0, 0, 50))
+    effect.setOffset(0, 4)
+    scan_button.setGraphicsEffect(effect)
+    widgets.append(scan_button)
+    top_layout.addWidget(scan_button, alignment=QtCore.Qt.AlignRight)
     
     # libraries and books
     bottom_layout = QHBoxLayout()
