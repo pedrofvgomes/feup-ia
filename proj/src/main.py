@@ -19,9 +19,12 @@ layout = QVBoxLayout()
 layout.setAlignment(QtCore.Qt.AlignCenter)
 
 def clear_widgets():
+    print(widgets)
     for widget in widgets:
-        widget.deleteLater()
-
+        if isinstance(widget, QWidget) or isinstance(widget, QScrollArea):
+            widget.deleteLater()
+    widgets.clear() 
+    
 def show_main_menu(error=""):
     clear_widgets()
     main_menu(error)
@@ -110,9 +113,12 @@ def library_menu(books, libraries, num_days):
     widgets.append(logo)
     top_layout.addWidget(logo)
     
+    logo.mousePressEvent = lambda _: show_main_menu()
+    
     # general info  
     general_info = QLabel(f'Number of books: {len(books)}\nNumber of libraries: {len(libraries)}\nNumber of days: {num_days}')
     general_info.setStyleSheet('font-size: 15px; font-weight: bold; color: white; margin-right: 475px; margin-left: 25px; margin-bottom: 30px;')
+    widgets.append(general_info)
     top_layout.addWidget(general_info)
     
     # libraries and books
@@ -123,6 +129,7 @@ def library_menu(books, libraries, num_days):
     libraries_label = QLabel('Libraries')
     libraries_label.setStyleSheet('font-size: 25px; font-weight: bold; color: white;')
     libraries_layout.addWidget(libraries_label, alignment=QtCore.Qt.AlignCenter)
+    widgets.append(libraries_label)
 
     libraries_list = QScrollArea()
     libraries_list.setFixedWidth(350)
@@ -130,6 +137,7 @@ def library_menu(books, libraries, num_days):
     libraries_list.setWidgetResizable(True)
     libraries_list.setStyleSheet('background: #684756; margin-bottom: 20px; padding: 0; border: 0;')
     libraries_list_content = QWidget(libraries_list)
+    widgets.append(libraries_list)
     libraries_list_content.setStyleSheet('padding: 0; margin: 0;')
     libraries_list_layout = QVBoxLayout(libraries_list_content)
     libraries_list_layout.setAlignment(QtCore.Qt.AlignTop)
@@ -139,11 +147,12 @@ def library_menu(books, libraries, num_days):
         label.setAlignment(QtCore.Qt.AlignTop | QtCore.Qt.AlignLeft)  
         label.setWordWrap(True)
         label_height = 93 + ((42 + 3*len(libraries[i].books)) // 36) * 18
-        print(label_height)
         label.setStyleSheet('font-size: 15px; font-weight: bold; color: white; padding: 10px; border-radius: 10px; border: 2px solid white; margin-bottom: 10px;')
         label.setMinimumHeight(label_height)
         label.adjustSize()
         libraries_list_layout.addWidget(label)
+        
+    widgets.append(libraries_list_content)
 
     libraries_list_content.setLayout(libraries_list_layout)
     libraries_list.setWidget(libraries_list_content)
@@ -161,6 +170,7 @@ def library_menu(books, libraries, num_days):
     books_label = QLabel('Books')
     books_label.setStyleSheet('font-size: 25px; font-weight: bold; color: white;')
     books_layout.addWidget(books_label, alignment=QtCore.Qt.AlignCenter)
+    widgets.append(books_label)
     
     books_list = QScrollArea()
     books_list.setFixedWidth(350)
@@ -169,6 +179,7 @@ def library_menu(books, libraries, num_days):
     books_list.setStyleSheet('background: #684756; margin-bottom: 20px; padding: 0; border: 0;')
     books_list_content = QWidget(books_list)
     books_list_content.setStyleSheet('padding: 0; margin: 0;')
+    widgets.append(books_list)
     books_list_layout = QVBoxLayout(books_list_content)
     books_list_layout.setAlignment(QtCore.Qt.AlignTop)
     
@@ -176,7 +187,7 @@ def library_menu(books, libraries, num_days):
         label = QLabel(f'Book {i}\nScore: {books[i].score}')
         label.setStyleSheet('font-size: 15px; font-weight: bold; color: white; padding: 10px; border-radius: 10px; border: 2px solid white; margin-bottom: 10px;')
         books_list_layout.addWidget(label)
-
+        
     books_list_content.setLayout(books_list_layout)
     books_list.setWidget(books_list_content)
     
@@ -193,8 +204,6 @@ def library_menu(books, libraries, num_days):
           
     layout.addLayout(top_layout)
     layout.addLayout(bottom_layout)
-    
-
         
 main_menu()
 
