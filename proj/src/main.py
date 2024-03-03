@@ -123,7 +123,7 @@ def library_menu(books, libraries, num_days):
     libraries_label = QLabel('Libraries')
     libraries_label.setStyleSheet('font-size: 25px; font-weight: bold; color: white;')
     libraries_layout.addWidget(libraries_label, alignment=QtCore.Qt.AlignCenter)
-    
+
     libraries_list = QScrollArea()
     libraries_list.setFixedWidth(350)
     libraries_list.setFixedHeight(400)
@@ -133,10 +133,16 @@ def library_menu(books, libraries, num_days):
     libraries_list_content.setStyleSheet('padding: 0; margin: 0;')
     libraries_list_layout = QVBoxLayout(libraries_list_content)
     libraries_list_layout.setAlignment(QtCore.Qt.AlignTop)
-    
-    for i in range(20):
-        label = QLabel(f'Library {i+1}')
-        label.setStyleSheet('font-size: 15px; font-weight: bold; color: white; padding: 10px;')
+
+    for i in range(len(libraries)):
+        label = QLabel(f'Library {i}\nSignup time: {libraries[i].signup_time}\nBooks per day: {libraries[i].books_per_day}\n\nBooks: {", ".join([f"{book.id}" for book in libraries[i].books])}')
+        label.setAlignment(QtCore.Qt.AlignTop | QtCore.Qt.AlignLeft)  
+        label.setWordWrap(True)
+        label_height = 93 + ((42 + 3*len(libraries[i].books)) // 36) * 18
+        print(label_height)
+        label.setStyleSheet('font-size: 15px; font-weight: bold; color: white; padding: 10px; border-radius: 10px; border: 2px solid white; margin-bottom: 10px;')
+        label.setMinimumHeight(label_height)
+        label.adjustSize()
         libraries_list_layout.addWidget(label)
 
     libraries_list_content.setLayout(libraries_list_layout)
@@ -152,7 +158,7 @@ def library_menu(books, libraries, num_days):
 
    # books (scrollable)
     books_layout = QVBoxLayout()  
-    books_label = QLabel('Libraries')
+    books_label = QLabel('Books')
     books_label.setStyleSheet('font-size: 25px; font-weight: bold; color: white;')
     books_layout.addWidget(books_label, alignment=QtCore.Qt.AlignCenter)
     
@@ -166,9 +172,9 @@ def library_menu(books, libraries, num_days):
     books_list_layout = QVBoxLayout(books_list_content)
     books_list_layout.setAlignment(QtCore.Qt.AlignTop)
     
-    for i in range(20):
-        label = QLabel(f'Book {i+1}')
-        label.setStyleSheet('font-size: 15px; font-weight: bold; color: white; padding: 10px;')
+    for i in range(len(books)):
+        label = QLabel(f'Book {i}\nScore: {books[i].score}')
+        label.setStyleSheet('font-size: 15px; font-weight: bold; color: white; padding: 10px; border-radius: 10px; border: 2px solid white; margin-bottom: 10px;')
         books_list_layout.addWidget(label)
 
     books_list_content.setLayout(books_list_layout)

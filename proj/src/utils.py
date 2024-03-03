@@ -72,7 +72,7 @@ def read_file(input_file):
             case "B":
                 # split line and create Book objects
                 for book in line.split(" "):
-                    books.append(Book(int(book)))
+                    books.append(Book(len(books), int(book)))
 
                 # change state
                 state = "C1"
