@@ -4,13 +4,7 @@ from PyQt5.QtGui import QPixmap, QFont, QCursor, QColor
 from PyQt5 import QtGui, QtCore
 from utils import read_file
 
-widgets = {
-    "logo": [],
-    "title": [],
-    "import": [],
-    "error": [],
-    "quit": [],
-}
+widgets = []
 
 app = QApplication(sys.argv)
 
@@ -26,10 +20,7 @@ layout.setAlignment(QtCore.Qt.AlignCenter)
 
 def clear_widgets():
     for widget in widgets:
-        if widgets[widget] != []:
-            widgets[widget][-1].hide()
-        for _ in range(0, len(widgets[widget])):
-            widgets[widget].pop()
+        widget.deleteLater()
 
 def show_main_menu(error=""):
     clear_widgets()
@@ -67,33 +58,33 @@ def main_menu(error=""):
     logo = QLabel()
     logo.setPixmap(image)
     logo.setStyleSheet('margin-left: 120px; margin-bottom: 20px;')
-    widgets["logo"].append(logo)
+    widgets.append(logo)
 
     title = QLabel('Book Scanning')
     title.setStyleSheet('font-size: 50px; font-weight: bold; color: white; margin-right: 120px; margin-bottom: 20px;')
     title.setFont(QFont('Segoe UI Black', 50))
-    widgets["title"].append(title)
+    widgets.append(title)
 
     title_box = QHBoxLayout()
-    title_box.addWidget(widgets["logo"][-1])
-    title_box.addWidget(widgets["title"][-1])
+    title_box.addWidget(logo)
+    title_box.addWidget(title)
     layout.addLayout(title_box)
 
     import_button = create_button('Import Libraries')
     import_button.clicked.connect(import_libraries)
-    widgets["import"].append(import_button)
-    layout.addWidget(widgets["import"][-1], alignment=QtCore.Qt.AlignCenter)
+    widgets.append(import_button)
+    layout.addWidget(import_button, alignment=QtCore.Qt.AlignCenter)
     
     if error:
         error_label = QLabel(error)
         error_label.setStyleSheet('font-size: 20px; font-weight: bold; color: red; margin-bottom: 20px;')
-        widgets["error"].append(error_label)
-        layout.addWidget(widgets["error"][-1], alignment=QtCore.Qt.AlignCenter)
+        widgets.append(error_label)
+        layout.addWidget(error_label, alignment=QtCore.Qt.AlignCenter)
 
     quit_button = create_button('Quit')
     quit_button.clicked.connect(app.quit)
-    widgets["quit"].append(quit_button)
-    layout.addWidget(widgets["quit"][-1], alignment=QtCore.Qt.AlignCenter)
+    widgets.append(quit_button)
+    layout.addWidget(quit_button, alignment=QtCore.Qt.AlignCenter)
     
     effect = QGraphicsDropShadowEffect()
     effect.setBlurRadius(30)
@@ -107,10 +98,25 @@ def main_menu(error=""):
     quit_button.setGraphicsEffect(effect)
     
 def library_menu(books, libraries, num_days):
-    general_info = QLabel(f'Number of books: {len(books)}\nNumber of libraries: {len(libraries)}\nNumber of days: {num_days}')
-    general_info.setStyleSheet('font-size: 20px; font-weight: bold; color: white; margin-bottom: 20px;')
-    layout.addWidget(general_info, alignment=QtCore.Qt.AlignCenter)
+    # logo and general info
+    top_layout = QHBoxLayout()
     
+    # logo
+    image = QPixmap('proj/assets/books.png')
+    image = image.scaled(60, 60)
+    logo = QLabel()
+    logo.setPixmap(image)
+    logo.setStyleSheet('margin-bottom: 500px;')
+    widgets.append(logo)
+    top_layout.addWidget(logo)
+    
+    # general info  
+    general_info = QLabel(f'Number of books: {len(books)}\nNumber of libraries: {len(libraries)}\nNumber of days: {num_days}')
+    general_info.setStyleSheet('font-size: 15px; font-weight: bold; color: white; margin-bottom: 500px; margin-right: 475px; margin-left: 25px;')
+    top_layout.addWidget(general_info)
+    
+    layout.addLayout(top_layout)
+
         
 main_menu()
 
