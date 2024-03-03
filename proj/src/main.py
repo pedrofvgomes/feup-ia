@@ -1,5 +1,5 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget, QFileDialog, QHBoxLayout, QGraphicsDropShadowEffect
+from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget, QFileDialog, QHBoxLayout, QGraphicsDropShadowEffect, QScrollArea
 from PyQt5.QtGui import QPixmap, QFont, QCursor, QColor
 from PyQt5 import QtGui, QtCore
 from utils import read_file
@@ -105,17 +105,89 @@ def library_menu(books, libraries, num_days):
     image = QPixmap('proj/assets/books.png')
     image = image.scaled(60, 60)
     logo = QLabel()
+    logo.setStyleSheet('margin-bottom: 30px;')
     logo.setPixmap(image)
-    logo.setStyleSheet('margin-bottom: 500px;')
     widgets.append(logo)
     top_layout.addWidget(logo)
     
     # general info  
     general_info = QLabel(f'Number of books: {len(books)}\nNumber of libraries: {len(libraries)}\nNumber of days: {num_days}')
-    general_info.setStyleSheet('font-size: 15px; font-weight: bold; color: white; margin-bottom: 500px; margin-right: 475px; margin-left: 25px;')
+    general_info.setStyleSheet('font-size: 15px; font-weight: bold; color: white; margin-right: 475px; margin-left: 25px; margin-bottom: 30px;')
     top_layout.addWidget(general_info)
     
+    # libraries and books
+    bottom_layout = QHBoxLayout()
+    
+    # libraries (scrollable)
+    libraries_layout = QVBoxLayout()  
+    libraries_label = QLabel('Libraries')
+    libraries_label.setStyleSheet('font-size: 25px; font-weight: bold; color: white;')
+    libraries_layout.addWidget(libraries_label, alignment=QtCore.Qt.AlignCenter)
+    
+    libraries_list = QScrollArea()
+    libraries_list.setFixedWidth(350)
+    libraries_list.setFixedHeight(400)
+    libraries_list.setWidgetResizable(True)
+    libraries_list.setStyleSheet('background: #684756; margin-bottom: 20px; padding: 0; border: 0;')
+    libraries_list_content = QWidget(libraries_list)
+    libraries_list_content.setStyleSheet('padding: 0; margin: 0;')
+    libraries_list_layout = QVBoxLayout(libraries_list_content)
+    libraries_list_layout.setAlignment(QtCore.Qt.AlignTop)
+    
+    for i in range(20):
+        label = QLabel(f'Library {i+1}')
+        label.setStyleSheet('font-size: 15px; font-weight: bold; color: white; padding: 10px;')
+        libraries_list_layout.addWidget(label)
+
+    libraries_list_content.setLayout(libraries_list_layout)
+    libraries_list.setWidget(libraries_list_content)
+    
+    effect = QGraphicsDropShadowEffect()
+    effect.setBlurRadius(30)
+    effect.setColor(QColor(0, 0, 0, 50))
+    effect.setOffset(0, 4)
+    libraries_list.setGraphicsEffect(effect)
+    
+    libraries_layout.addWidget(libraries_list, alignment=QtCore.Qt.AlignCenter)
+
+   # books (scrollable)
+    books_layout = QVBoxLayout()  
+    books_label = QLabel('Libraries')
+    books_label.setStyleSheet('font-size: 25px; font-weight: bold; color: white;')
+    books_layout.addWidget(books_label, alignment=QtCore.Qt.AlignCenter)
+    
+    books_list = QScrollArea()
+    books_list.setFixedWidth(350)
+    books_list.setFixedHeight(400)
+    books_list.setWidgetResizable(True)
+    books_list.setStyleSheet('background: #684756; margin-bottom: 20px; padding: 0; border: 0;')
+    books_list_content = QWidget(books_list)
+    books_list_content.setStyleSheet('padding: 0; margin: 0;')
+    books_list_layout = QVBoxLayout(books_list_content)
+    books_list_layout.setAlignment(QtCore.Qt.AlignTop)
+    
+    for i in range(20):
+        label = QLabel(f'Book {i+1}')
+        label.setStyleSheet('font-size: 15px; font-weight: bold; color: white; padding: 10px;')
+        books_list_layout.addWidget(label)
+
+    books_list_content.setLayout(books_list_layout)
+    books_list.setWidget(books_list_content)
+    
+    effect = QGraphicsDropShadowEffect()
+    effect.setBlurRadius(30)
+    effect.setColor(QColor(0, 0, 0, 50))
+    effect.setOffset(0, 4)
+    books_list.setGraphicsEffect(effect)
+    
+    books_layout.addWidget(books_list, alignment=QtCore.Qt.AlignCenter)
+    
+    bottom_layout.addLayout(libraries_layout)
+    bottom_layout.addLayout(books_layout)    
+          
     layout.addLayout(top_layout)
+    layout.addLayout(bottom_layout)
+    
 
         
 main_menu()
