@@ -35,6 +35,10 @@ def show_main_menu(error=""):
     clear_widgets()
     main_menu(error)
     
+def show_library_menu(books, libraries, num_days):
+    clear_widgets()
+    library_menu(books, libraries, num_days)
+    
 def create_button(text):
     button = QPushButton(text)
     button.setFont(QFont('Segoe UI Black', 30))
@@ -47,10 +51,14 @@ def import_libraries():
     filename = QFileDialog.getOpenFileName(window, 'Import Libraries', 'proj/', 'Text Files (*.txt)')[0]
     if filename:
         clear_widgets()
-        libraries = read_file(filename)
-        if libraries:
-            print('top!')
-        else:
+        try:
+            [books, libraries, num_days] = read_file(filename)
+            if libraries:
+                print('top!')
+                show_library_menu(books, libraries, num_days)
+            else:
+                show_main_menu('Error: Invalid file')
+        except:
             show_main_menu('Error: Invalid file')
              
 def main_menu(error=""):
@@ -97,6 +105,12 @@ def main_menu(error=""):
     effect.setColor(QColor(0, 0, 0, 50))
     effect.setOffset(0, 4)
     quit_button.setGraphicsEffect(effect)
+    
+def library_menu(books, libraries, num_days):
+    general_info = QLabel(f'Number of books: {len(books)}\nNumber of libraries: {len(libraries)}\nNumber of days: {num_days}')
+    general_info.setStyleSheet('font-size: 20px; font-weight: bold; color: white; margin-bottom: 20px;')
+    layout.addWidget(general_info, alignment=QtCore.Qt.AlignCenter)
+    
         
 main_menu()
 

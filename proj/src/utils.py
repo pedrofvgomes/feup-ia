@@ -46,7 +46,7 @@ def read_file(input_file):
         # file ended
         if not line:
             print("File reading complete!")
-            return libraries
+            return [books, libraries, num_days]
         
         # handle line
         match state:
