@@ -1,5 +1,6 @@
 class Book:
-    def __init__(self, score):
+    def __init__(self, id, score):
+        self.id = id
         self.score = score
 
     def get_score(self):
