@@ -37,7 +37,6 @@ def create_button(text):
     button.setFont(QFont('Segoe UI Black', 30))
     button.setCursor(QCursor(QtCore.Qt.PointingHandCursor))
     button.setStyleSheet('QPushButton{ color: white; background: #684756; font-size: 30px; font-weight: bold; padding: 15px 30px; border-radius: 25px; margin-bottom: 20px; } QPushButton:hover{background: #705665;}')
-    button.setFixedWidth(300)
     return button
 
 def import_libraries():
@@ -51,7 +50,7 @@ def import_libraries():
             show_main_menu('Error: Invalid file')
             
 def scan_books(books, libraries, num_days):
-    print('Starting the sign-up and scanning process...')
+    print('TO BE IMPLEMENTED...')
     # AQUI VAI SER A IMPLEMENTAÇÃO DO ALGORITMO DE SIGNUP E SCAN
              
 def main_menu(error=""):
@@ -121,7 +120,7 @@ def library_menu(books, libraries, num_days):
     layout.addWidget(general_info)
     
     # scan button
-    scan_button = create_button('Scan Books')
+    scan_button = create_button('Apply Algorithm')
     scan_button.clicked.connect(lambda: scan_books(books, libraries, num_days))
     effect = QGraphicsDropShadowEffect()
     effect.setBlurRadius(30)
