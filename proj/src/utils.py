@@ -1,116 +1,49 @@
 from models import Library, Book
 
 def read_file(input_file):
-    # if the file is found, print success
-    # otherwise, print error
-    try:
-        f = open(input_file, "r")
-        print("File found!")
-    except FileNotFoundError:
-        print("File not found!")
-        return
+    error = [], [], 0
     
-    """
-    STATE MANAGEMENT:
-    A - read number of books, libraries, and days
-    B - read book scores
-    C - read library information
-        C1 - read number of books, signup time, and books per day
-        C2 - read book IDs
-    """
-    state = "A"
-
-    """
-    DATA STRUCTURES
-    - books - list of book scores, that will be used to assign to libraries
-    - libraries - list of libraries, that'll be returned
-    """
-    books = []
-    libraries = []
-
-    """
-    VARIABLES 
-    - num_books - number of books in the library
-    - num_libraries - number of libraries in the library
-    - num_days - number of days to scan the library
-    """
-    num_books = 0
-    num_libraries = 0
-    num_days = 0
-
-    # print lines until the file ends
-    while True:
-        # try to read line
-        line = f.readline()
-
-        # file ended
-        if not line:
-            print("File reading complete!")
-            return [books, libraries, num_days]
+    file = open(input_file, 'r')
+    lines = file.readlines()
+    
+    a = lines[0]
+    b = lines[1]
+    
+    lines = [line.strip() for line in lines[2:]]
+    
+    if len(a.strip().split(' ')) != 3:
+        print(len(a.strip().split(' ')))
+        return error
+    else:
+        a = a.strip().split(' ')
+        num_books = int(a[0])
+        num_libraries = int(a[1])
+        num_days = int(a[2])
         
-        # handle line
-        match state:
-            # read number of books, libraries, and days
-            case "A":
-                # split line
-                temp = line.split(" ")
-
-                # assign values
-                try:
-                    num_books = int(temp[0])
-                    num_libraries = int(temp[1])
-                    num_days = int(temp[2])
-                except (IndexError, ValueError):
-                    print("Error: Invalid file")
-                    return
+    if len(b.strip().split(' ')) != num_books:
+        print(b.strip().split(' '))
+        print(num_books)
+        return error
+    else:
+        b = b.strip().split(' ')
+        books = []
+        for book in b:
+            books.append(Book(len(books), int(book)))
+            
+    if num_libraries*2 != len([line for line in lines if len(line)]):
+        return error
+    
+    libraries = []
+    added_lib = False
+    for line in lines:
+        if len(line):
+            line = line.split(' ')
+            if not added_lib:
+                libraries.append(Library(len(libraries), int(line[1]), int(line[2])))
+                added_lib = True
+            else:
+                for book_id in line:
+                    libraries[-1].add_book(books[int(book_id)])
+                added_lib = False
                     
-
-                # change state
-                state = "B"
-
-            # read book scores
-            case "B":
-                # split line and create Book objects
-                for book in line.split(" "):
-                    books.append(Book(len(books), int(book)))
-
-                # change state
-                state = "C1"
-
-            # read library information
-            case "C1":                
-                # split line
-                temp = line.split(" ")
-
-                # assign values
-                try:
-                    n = int(temp[0])
-                    t = int(temp[1])
-                    m = int(temp[2])
-                except (IndexError, ValueError):
-                    print("Error: Invalid file")
-                    return
-                
-                # create library object
-                libraries.append(Library([], t, m))
-
-                # change state
-                state = "C2"
-
-            # read book IDs
-            case "C2":
-                # split line and add books to library
-                for book in line.split(" "):
-                    libraries[-1].books.append(books[int(book)])
-
-                # if n is different from the number of books in the library, print error
-                if len(libraries[-1].books) != n:
-                    print("Error: Number of books in library " + str(len(libraries)) + " is not equal to " + str(n))
-                    return
-
-                # change state
-                state = "C1"
-
-            # default case, return
-            case _:
-                return
+    return books, libraries, num_days
