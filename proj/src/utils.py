@@ -12,7 +12,6 @@ def read_file(input_file):
     lines = [line.strip() for line in lines[2:]]
     
     if len(a.strip().split(' ')) != 3:
-        print(len(a.strip().split(' ')))
         return error
     else:
         a = a.strip().split(' ')
@@ -21,9 +20,8 @@ def read_file(input_file):
         num_days = int(a[2])
         
     if len(b.strip().split(' ')) != num_books:
-        print(b.strip().split(' '))
-        print(num_books)
         return error
+    
     else:
         b = b.strip().split(' ')
         books = []
