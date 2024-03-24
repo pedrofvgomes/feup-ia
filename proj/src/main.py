@@ -49,7 +49,7 @@ def import_libraries():
         else:
             show_main_menu('Error: Invalid file')
             
-def scan_books(books, libraries, num_days):
+def scan_books(libraries, num_days):
     print('TO BE IMPLEMENTED...')
     # AQUI VAI SER A IMPLEMENTAÇÃO DO ALGORITMO DE SIGNUP E SCAN
              
