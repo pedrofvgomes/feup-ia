@@ -1,8 +1,9 @@
-import sys
-from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget, QFileDialog, QHBoxLayout, QGraphicsDropShadowEffect, QScrollArea
+import sys, os
+from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget, QFileDialog, QHBoxLayout, QGraphicsDropShadowEffect
 from PyQt5.QtGui import QPixmap, QFont, QCursor, QColor
 from PyQt5 import QtGui, QtCore
-from utils import read_file, Book, Library
+from models import Book, Library
+from algorithms import read_input_file, apply_greedy_algorithm, apply_simulated_annealing
 
 widgets = []
 
@@ -19,19 +20,17 @@ layout = QVBoxLayout()
 layout.setAlignment(QtCore.Qt.AlignCenter)
 
 def clear_widgets():
+    global layout
     for widget in widgets:
-        if isinstance(widget, QWidget) or isinstance(widget, QScrollArea):
+        if isinstance(widget, QWidget):
+            layout.removeWidget(widget)
             widget.deleteLater()
-    widgets.clear() 
-    
+    widgets.clear()
+
 def show_main_menu(error=""):
     clear_widgets()
     main_menu(error)
-    
-def show_library_menu(books, libraries, num_days):
-    clear_widgets()
-    library_menu(books, libraries, num_days)
-    
+
 def create_button(text):
     button = QPushButton(text)
     button.setFont(QFont('Segoe UI Black', 30))
@@ -40,19 +39,51 @@ def create_button(text):
     return button
 
 def import_libraries():
-    filename = QFileDialog.getOpenFileName(window, 'Import Libraries', 'proj/', 'Text Files (*.txt)')[0]
+    filename = QFileDialog.getOpenFileName(window, 'Import Libraries', 'proj/data', 'Text Files (*.txt)')[0]
     if filename:
         clear_widgets()
-        books, libraries, num_days = read_file(filename)
+        num_days, libraries = read_input_file(filename)
         if libraries:
-            show_library_menu(books, libraries, num_days)
+            books = get_books_list(libraries)
+            library_menu(books, libraries, num_days, filename)
         else:
             show_main_menu('Error: Invalid file')
-            
-def scan_books(books, libraries, num_days):
-    print('TO BE IMPLEMENTED...')
-    # AQUI VAI SER A IMPLEMENTAÇÃO DO ALGORITMO DE SIGNUP E SCAN
-             
+
+def get_books_list(libraries):
+    # Assuming each library has a 'books' attribute which is a list of Book objects
+    books = set()
+    for library in libraries:
+        books.update(library.books)  # Add books from each library to the set to avoid duplicates
+    return list(books)  # Convert the set to a list and return
+
+def apply_algorithm_and_exit(algorithm, input_file, algorithm_name):
+    algorithm(input_file)
+    base_name = os.path.splitext(os.path.basename(input_file))[0]
+    show_main_menu(f'{base_name}_{algorithm_name} successfully created')
+
+def algorithm_choice_menu(input_file):
+    clear_widgets()
+    
+    label = QLabel("Choose an algorithm")
+    label.setAlignment(QtCore.Qt.AlignCenter)
+    label.setStyleSheet('font-size: 25px; color: white;')
+    widgets.append(label)
+    layout.addWidget(label)
+
+    greddy_button = create_button('Greedy Algorithm')
+    greddy_button.clicked.connect(lambda: apply_algorithm_and_exit(apply_greedy_algorithm, input_file, 'greedy'))
+    widgets.append(greddy_button)
+    layout.addWidget(greddy_button, alignment=QtCore.Qt.AlignCenter)
+
+    simulated_annealing_button = create_button('Simulated Annealing Algorithm')
+    simulated_annealing_button.clicked.connect(lambda: apply_algorithm_and_exit(apply_simulated_annealing, input_file, 'simulated_annealing'))
+    widgets.append(simulated_annealing_button)
+    layout.addWidget(simulated_annealing_button, alignment=QtCore.Qt.AlignCenter)
+
+
+def scan_books(books, libraries, num_days, input_file):
+    algorithm_choice_menu(input_file)
+
 def main_menu(error=""):
     image = QPixmap('proj/assets/books.png')
     image = image.scaled(120, 120)
@@ -98,7 +129,7 @@ def main_menu(error=""):
     effect.setOffset(0, 4)
     quit_button.setGraphicsEffect(effect)
     
-def library_menu(books, libraries, num_days):  
+def library_menu(books, libraries, num_days, input_name):  
     # logo
     image = QPixmap('proj/assets/books.png')
     image = image.scaled(60, 60)
@@ -121,7 +152,7 @@ def library_menu(books, libraries, num_days):
     
     # scan button
     scan_button = create_button('Apply Algorithm')
-    scan_button.clicked.connect(lambda: scan_books(books, libraries, num_days))
+    scan_button.clicked.connect(lambda: scan_books(books, libraries, num_days, input_name))
     effect = QGraphicsDropShadowEffect()
     effect.setBlurRadius(30)
     effect.setColor(QColor(0, 0, 0, 50))
@@ -129,7 +160,7 @@ def library_menu(books, libraries, num_days):
     scan_button.setGraphicsEffect(effect)
     widgets.append(scan_button)
     layout.addWidget(scan_button, alignment=QtCore.Qt.AlignRight)
-                      
+
 main_menu()
 
 window.setLayout(layout)
