@@ -49,9 +49,6 @@ def read_input_file(input_file):
                     
     return num_days, libraries
 
-
-
-
 def apply_greedy_algorithm(input_file):
     # Read input data
     D, libraries = read_input_file(input_file)
@@ -85,6 +82,12 @@ def apply_greedy_algorithm(input_file):
     # Write the results to the output file
     base_name = os.path.splitext(os.path.basename(input_file))[0]
     output_path = f'proj/output/{base_name}_greedy.txt'
+    
+    ### FIXME: BY PEDRO - remover isto se usarmos a helper function
+    if not os.path.exists('proj/output'):
+        os.makedirs('proj/output')
+    ###
+    
     with open(output_path, 'w') as file:
         # Write the number of libraries to sign up
         file.write(f"{len(signup_process)}\n")
@@ -134,6 +137,48 @@ def apply_simulated_annealing(input_file):
     write_solution(output_path, current_solution)
 
     print(f'Simulated Annealing applied for {base_name} with a total score of {current_score}')
+    
+"""
+HILL CLIMBING ALGORITHM
+- Description:
+    - Start with an initial solution and iteratively make small changes to it to find a better solution.
+    - If the new solution is better than the current solution, accept it.
+    - If the new solution is worse than the current solution, accept it with a probability based on the temperature.
+- Pros:
+    - Simple to implement.
+    - Can find good solutions quickly.
+- Cons:
+    - Can get stuck in local optima.
+    - Requires fine-tuning of parameters.
+"""
+def apply_hill_climbing(input_file):
+    D, libraries = read_input_file(input_file)
+    
+    current_solution = initial_solution(D, libraries)
+    current_score = score_solution(current_solution, D)
+    
+    best_solution = current_solution
+    best_score = current_score
+    
+    while True:
+        neighbor_sol = neighbor_solution(current_solution, libraries, D)
+        neighbor_score = score_solution(neighbor_sol, D)
+        
+        if neighbor_score > current_score:
+            current_solution = neighbor_sol
+            current_score = neighbor_score
+            
+            if current_score > best_score:
+                best_solution = current_solution
+                best_score = current_score
+        else:
+            break
+    
+    base_name = os.path.splitext(os.path.basename(input_file))[0]
+    output_path = f'proj/output/{base_name}_hill_climbing.txt'
+    write_solution(output_path, best_solution)
+    
+    print(f'Hill Climbing applied for {base_name} with a total score of {best_score}')
 
 # Helper functions
 
@@ -186,6 +231,8 @@ def score_solution(solution, D):
     return score
 
 def write_solution(output_path, solution):
+    if not os.path.exists('proj/output'):
+        os.makedirs('proj/output')
     with open(output_path, 'w') as f:
         f.write(f"{len(solution)}\n")  # Write the number of libraries
         for library, books in solution:

@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWid
 from PyQt5.QtGui import QPixmap, QFont, QCursor, QColor
 from PyQt5 import QtGui, QtCore
 from models import Book, Library
-from algorithms import read_input_file, apply_greedy_algorithm, apply_simulated_annealing
+from algorithms import read_input_file, apply_greedy_algorithm, apply_simulated_annealing, apply_hill_climbing
 
 widgets = []
 
@@ -79,6 +79,11 @@ def algorithm_choice_menu(input_file):
     simulated_annealing_button.clicked.connect(lambda: apply_algorithm_and_exit(apply_simulated_annealing, input_file, 'simulated_annealing'))
     widgets.append(simulated_annealing_button)
     layout.addWidget(simulated_annealing_button, alignment=QtCore.Qt.AlignCenter)
+    
+    hill_climbing_button = create_button('Hill Climbing Algorithm')
+    hill_climbing_button.clicked.connect(lambda: apply_algorithm_and_exit(apply_hill_climbing, input_file, 'hill_climbing'))
+    widgets.append(hill_climbing_button)
+    layout.addWidget(hill_climbing_button, alignment=QtCore.Qt.AlignCenter)
 
 def main_menu(error=""):
     image = QPixmap('proj/assets/books.png')
