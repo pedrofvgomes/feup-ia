@@ -3,41 +3,51 @@ import random, math
 from models import Book, Library
 
 
-def read_input_file(file_path):
-    with open(file_path, 'r') as file:
-        lines = file.readlines()
+def read_input_file(input_file):
+    error = [], [], 0
     
-    # The first line contains the total number of books, libraries, and days
-    total_books, total_libraries, total_days = map(int, lines[0].split())
+    file = open(input_file, 'r')
+    lines = file.readlines()
     
-    # The second line contains the scores for all books
-    book_scores = list(map(int, lines[1].split()))
+    a = lines[0]
+    b = lines[1]
     
-    # Create book instances for all books
-    books = [Book(i, score) for i, score in enumerate(book_scores)]
+    lines = [line.strip() for line in lines[2:]]
+    
+    if len(a.strip().split(' ')) != 3:
+        return error
+    else:
+        a = a.strip().split(' ')
+        num_books = int(a[0])
+        num_libraries = int(a[1])
+        num_days = int(a[2])
+        
+    if len(b.strip().split(' ')) != num_books:
+        return error
+    
+    else:
+        b = b.strip().split(' ')
+        books = []
+        for book in b:
+            books.append(Book(len(books), int(book)))
+            
+    if num_libraries*2 != len([line for line in lines if len(line)]):
+        return error
     
     libraries = []
-    current_line = 2
-    for _ in range(total_libraries):
-        # Each library entry consists of two lines
-        # First line: number of books, signup process duration, books per day limit
-        num_books, signup_duration, books_per_day_limit = map(int, lines[current_line].split())
-        current_line += 1
-        
-        # Second line: IDs of books in the library
-        book_ids = list(map(int, lines[current_line].split()))
-        current_line += 1
-        
-        # Create a library instance
-        library = Library(len(libraries), signup_duration, books_per_day_limit)
-        
-        # Add books to the library
-        for book_id in book_ids:
-            library.add_book(books[book_id])
-        
-        libraries.append(library)
-    
-    return total_days, libraries
+    added_lib = False
+    for line in lines:
+        if len(line):
+            line = line.split(' ')
+            if not added_lib:
+                libraries.append(Library(len(libraries), int(line[1]), int(line[2])))
+                added_lib = True
+            else:
+                for book_id in line:
+                    libraries[-1].add_book(books[int(book_id)])
+                added_lib = False
+                    
+    return num_days, libraries
 
 
 
@@ -86,11 +96,6 @@ def apply_greedy_algorithm(input_file):
             file.write(book_ids + "\n")
 
     print(f'Greedy algorithm applied for {base_name} with total score: {total_score}')
-
-
-
-
-
 
 def apply_simulated_annealing(input_file):
     D, libraries = read_input_file(input_file)

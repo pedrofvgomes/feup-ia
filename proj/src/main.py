@@ -80,10 +80,6 @@ def algorithm_choice_menu(input_file):
     widgets.append(simulated_annealing_button)
     layout.addWidget(simulated_annealing_button, alignment=QtCore.Qt.AlignCenter)
 
-
-def scan_books(books, libraries, num_days, input_file):
-    algorithm_choice_menu(input_file)
-
 def main_menu(error=""):
     image = QPixmap('proj/assets/books.png')
     image = image.scaled(120, 120)
@@ -152,7 +148,7 @@ def library_menu(books, libraries, num_days, input_name):
     
     # scan button
     scan_button = create_button('Apply Algorithm')
-    scan_button.clicked.connect(lambda: scan_books(books, libraries, num_days, input_name))
+    scan_button.clicked.connect(lambda: algorithm_choice_menu(input_name))
     effect = QGraphicsDropShadowEffect()
     effect.setBlurRadius(30)
     effect.setColor(QColor(0, 0, 0, 50))
