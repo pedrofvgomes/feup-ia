@@ -23,3 +23,10 @@ class Library:
     # Additional method to sort the books by their score, which will be used in the greedy algorithm.
     def sort_books(self):
         self.books.sort(key=lambda x: x.score, reverse=True)
+        
+        
+# this class will be used in the Genetic Algorithm approach
+class Chromosome:
+    def __init__(self, libraries):
+        self.libraries = libraries
+        self.score = 0

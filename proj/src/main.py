@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWid
 from PyQt5.QtGui import QPixmap, QFont, QCursor, QColor
 from PyQt5 import QtGui, QtCore
 from models import Book, Library
-from algorithms import read_input_file, apply_greedy_algorithm, apply_simulated_annealing, apply_hill_climbing
+from algorithms import read_input_file, apply_greedy_algorithm, apply_simulated_annealing, apply_hill_climbing, apply_genetic_algorithm
 
 widgets = []
 
@@ -64,6 +64,18 @@ def apply_algorithm_and_exit(algorithm, input_file, algorithm_name):
 def algorithm_choice_menu(input_file):
     clear_widgets()
     
+    image = QPixmap('proj/assets/books.png')
+    image = image.scaled(60, 60)
+    logo = QLabel()
+    logo.setCursor(QCursor(QtCore.Qt.PointingHandCursor))
+    logo.setPixmap(image)
+    logo.setAlignment(QtCore.Qt.AlignCenter)
+    logo.setStyleSheet('margin-bottom: 20px;')
+    widgets.append(logo)
+    layout.addWidget(logo)
+    
+    logo.mousePressEvent = lambda _: show_main_menu()
+    
     label = QLabel("Choose an algorithm")
     label.setAlignment(QtCore.Qt.AlignCenter)
     label.setStyleSheet('font-size: 25px; color: white;')
@@ -84,6 +96,11 @@ def algorithm_choice_menu(input_file):
     hill_climbing_button.clicked.connect(lambda: apply_algorithm_and_exit(apply_hill_climbing, input_file, 'hill_climbing'))
     widgets.append(hill_climbing_button)
     layout.addWidget(hill_climbing_button, alignment=QtCore.Qt.AlignCenter)
+    
+    genetic_algorithm_button = create_button('Genetic Algorithm')
+    genetic_algorithm_button.clicked.connect(lambda: apply_algorithm_and_exit(apply_genetic_algorithm, input_file, 'genetic_algorithm'))
+    widgets.append(genetic_algorithm_button)
+    layout.addWidget(genetic_algorithm_button, alignment=QtCore.Qt.AlignCenter)
 
 def main_menu(error=""):
     image = QPixmap('proj/assets/books.png')
@@ -110,7 +127,8 @@ def main_menu(error=""):
     
     if error:
         error_label = QLabel(error)
-        error_label.setStyleSheet('font-size: 20px; font-weight: bold; color: red; margin-bottom: 20px;')
+        color = 'red' if 'Error' in error else 'green'
+        error_label.setStyleSheet(f'font-size: 20px; font-weight: bold; color: {color}; margin-bottom: 20px;')
         widgets.append(error_label)
         layout.addWidget(error_label, alignment=QtCore.Qt.AlignCenter)
 
