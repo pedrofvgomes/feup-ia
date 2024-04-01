@@ -85,6 +85,8 @@ def apply_greedy_algorithm(input_file):
     write_solution(output_path, signup_process)  # Pass the list of tuples to write_solution
 
     print(f'Greedy algorithm applied for {base_name} with total score: {total_score}')
+    
+    return total_score
 
 def apply_simulated_annealing(input_file):
     D, libraries = read_input_file(input_file)
@@ -123,6 +125,8 @@ def apply_simulated_annealing(input_file):
     write_solution(output_path, current_solution)
 
     print(f'Simulated Annealing applied for {base_name} with a total score of {current_score}')
+    
+    return current_score
 
 """
 HILL CLIMBING ALGORITHM
@@ -169,6 +173,8 @@ def apply_hill_climbing(input_file):
     write_solution(output_path, [(library, [book.id for book in books]) for library, books in best_solution])
     
     print(f'Hill Climbing applied for {base_name} with a total score of {best_score}')
+    
+    return best_score
 
 
 """
@@ -229,6 +235,8 @@ def apply_genetic_algorithm(input_file):
     output_path = f'proj/output/{base_name}_genetic_algorithm.txt'
     write_solution(output_path, solution)
     print(f'Genetic Algorithm applied for {base_name} with a total score of {best_solution.score}')                
+    
+    return best_solution.score
                 
 # Helper functions
 

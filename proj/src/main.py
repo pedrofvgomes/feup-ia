@@ -57,9 +57,9 @@ def get_books_list(libraries):
     return list(books)  # Convert the set to a list and return
 
 def apply_algorithm_and_exit(algorithm, input_file, algorithm_name):
-    algorithm(input_file)
+    score = algorithm(input_file)
     base_name = os.path.splitext(os.path.basename(input_file))[0]
-    show_main_menu(f'{base_name}_{algorithm_name} successfully created')
+    show_main_menu(f'{base_name}_{algorithm_name} successfully created - Score: {score}')
 
 def algorithm_choice_menu(input_file):
     clear_widgets()
