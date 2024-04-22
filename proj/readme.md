@@ -71,7 +71,7 @@ Library ID and number of scanned books: The ID of the library followed by the co
 Book IDs: IDs of the books to be scanned, listed in the order they will be processed.
 
 ## Scores for each algorithm, for each file
-| Algorithm           | A | B | C | D | E | F |
+| Algorithm / File           | A | B | C | D | E | F |
 |---------------------|---|---|---|---|---|---|
 | Greedy              | 21 | 9000000 | 5645747 | 4815395 | 7616025 | 5561306 |
 | Simulated Annealing | 21 | 5581800 | 894135 | 1288950 | 813619 | 950410 |
