@@ -1,0 +1,5 @@
+2
+1 4
+ID: 3 - Score: 6 ID: 2 - Score: 3 ID: 0 - Score: 1 ID: 5 - Score: 4
+0 5
+ID: 1 - Score: 2 ID: 3 - Score: 6 ID: 0 - Score: 1 ID: 4 - Score: 5 ID: 2 - Score: 3

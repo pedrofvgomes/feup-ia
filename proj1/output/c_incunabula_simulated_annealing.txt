@@ -1,0 +1,405 @@
+202
+12 13
+ID: 37212 - Score: 26 ID: 20226 - Score: 331 ID: 4986 - Score: 255 ID: 79461 - Score: 405 ID: 3072 - Score: 190 ID: 74644 - Score: 286 ID: 19620 - Score: 399 ID: 45929 - Score: 368 ID: 16384 - Score: 285 ID: 34570 - Score: 152 ID: 23189 - Score: 393 ID: 42296 - Score: 321 ID: 14869 - Score: 538
+101 16
+ID: 18985 - Score: 497 ID: 32249 - Score: 174 ID: 43781 - Score: 114 ID: 77210 - Score: 166 ID: 40385 - Score: 411 ID: 58595 - Score: 181 ID: 16959 - Score: 162 ID: 78088 - Score: 91 ID: 34930 - Score: 313 ID: 70616 - Score: 101 ID: 69032 - Score: 140 ID: 95514 - Score: 383 ID: 73147 - Score: 206 ID: 20446 - Score: 579 ID: 25582 - Score: 282 ID: 54173 - Score: 23
+0 13
+ID: 6990 - Score: 68 ID: 45948 - Score: 110 ID: 94356 - Score: 518 ID: 88544 - Score: 537 ID: 4346 - Score: 70 ID: 94192 - Score: 568 ID: 1599 - Score: 318 ID: 30723 - Score: 9 ID: 96767 - Score: 434 ID: 70546 - Score: 47 ID: 45608 - Score: 503 ID: 91997 - Score: 403 ID: 82022 - Score: 282
+44 10
+ID: 41077 - Score: 543 ID: 5774 - Score: 228 ID: 42450 - Score: 145 ID: 44184 - Score: 122 ID: 47089 - Score: 342 ID: 55186 - Score: 91 ID: 70619 - Score: 305 ID: 68663 - Score: 368 ID: 99995 - Score: 32 ID: 42293 - Score: 280
+57 15
+ID: 15748 - Score: 233 ID: 86607 - Score: 152 ID: 45617 - Score: 187 ID: 8238 - Score: 539 ID: 94422 - Score: 396 ID: 61102 - Score: 84 ID: 38013 - Score: 371 ID: 65665 - Score: 317 ID: 4593 - Score: 281 ID: 8335 - Score: 457 ID: 14344 - Score: 263 ID: 64713 - Score: 194 ID: 28989 - Score: 493 ID: 51330 - Score: 401 ID: 73651 - Score: 60
+65 14
+ID: 24590 - Score: 136 ID: 57220 - Score: 79 ID: 44760 - Score: 45 ID: 90454 - Score: 165 ID: 21926 - Score: 292 ID: 36630 - Score: 172 ID: 38890 - Score: 450 ID: 53992 - Score: 313 ID: 38511 - Score: 389 ID: 57130 - Score: 64 ID: 4722 - Score: 401 ID: 17981 - Score: 241 ID: 18896 - Score: 393 ID: 59303 - Score: 85
+6 15
+ID: 1006 - Score: 101 ID: 47182 - Score: 538 ID: 2535 - Score: 252 ID: 76032 - Score: 250 ID: 78614 - Score: 487 ID: 40065 - Score: 146 ID: 92011 - Score: 423 ID: 76192 - Score: 300 ID: 7756 - Score: 260 ID: 52588 - Score: 317 ID: 32000 - Score: 411 ID: 27899 - Score: 50 ID: 27549 - Score: 135 ID: 46 - Score: 143 ID: 8469 - Score: 118
+182 13
+ID: 39468 - Score: 526 ID: 23714 - Score: 596 ID: 98462 - Score: 318 ID: 84912 - Score: 303 ID: 43591 - Score: 248 ID: 48312 - Score: 206 ID: 49280 - Score: 176 ID: 35894 - Score: 561 ID: 59234 - Score: 440 ID: 32343 - Score: 142 ID: 52557 - Score: 158 ID: 68537 - Score: 581 ID: 60370 - Score: 413
+108 12
+ID: 8220 - Score: 520 ID: 78876 - Score: 146 ID: 56137 - Score: 316 ID: 14480 - Score: 282 ID: 8632 - Score: 97 ID: 69831 - Score: 320 ID: 32057 - Score: 235 ID: 78709 - Score: 399 ID: 24025 - Score: 313 ID: 40746 - Score: 42 ID: 40430 - Score: 43 ID: 41571 - Score: 61
+45 19
+ID: 58149 - Score: 599 ID: 70497 - Score: 175 ID: 74095 - Score: 102 ID: 10583 - Score: 11 ID: 26758 - Score: 253 ID: 57568 - Score: 369 ID: 5047 - Score: 587 ID: 21814 - Score: 533 ID: 54179 - Score: 252 ID: 64975 - Score: 358 ID: 98809 - Score: 384 ID: 4932 - Score: 10 ID: 98282 - Score: 515 ID: 48991 - Score: 193 ID: 48669 - Score: 537 ID: 75469 - Score: 599 ID: 93604 - Score: 422 ID: 85937 - Score: 31 ID: 20500 - Score: 308
+113 15
+ID: 68216 - Score: 315 ID: 75868 - Score: 155 ID: 2276 - Score: 473 ID: 42133 - Score: 422 ID: 30326 - Score: 583 ID: 44803 - Score: 101 ID: 16236 - Score: 539 ID: 35056 - Score: 59 ID: 8503 - Score: 241 ID: 54612 - Score: 440 ID: 49465 - Score: 183 ID: 93279 - Score: 430 ID: 90830 - Score: 363 ID: 9627 - Score: 217 ID: 77780 - Score: 179
+151 19
+ID: 3581 - Score: 514 ID: 38722 - Score: 136 ID: 71319 - Score: 556 ID: 71380 - Score: 6 ID: 51485 - Score: 307 ID: 4080 - Score: 579 ID: 90385 - Score: 360 ID: 88713 - Score: 181 ID: 7135 - Score: 579 ID: 79395 - Score: 163 ID: 32877 - Score: 588 ID: 65393 - Score: 373 ID: 80806 - Score: 133 ID: 96716 - Score: 455 ID: 8997 - Score: 261 ID: 52988 - Score: 200 ID: 51752 - Score: 17 ID: 45838 - Score: 343 ID: 77181 - Score: 1
+136 20
+ID: 82340 - Score: 20 ID: 80739 - Score: 367 ID: 98607 - Score: 183 ID: 26421 - Score: 248 ID: 62274 - Score: 321 ID: 56992 - Score: 380 ID: 13761 - Score: 492 ID: 43787 - Score: 123 ID: 13762 - Score: 75 ID: 89139 - Score: 557 ID: 59705 - Score: 308 ID: 91654 - Score: 447 ID: 71630 - Score: 260 ID: 77442 - Score: 298 ID: 30890 - Score: 346 ID: 40032 - Score: 482 ID: 58009 - Score: 291 ID: 44802 - Score: 539 ID: 96918 - Score: 284 ID: 59229 - Score: 589
+4 12
+ID: 14116 - Score: 65 ID: 88055 - Score: 353 ID: 39112 - Score: 329 ID: 89089 - Score: 597 ID: 16808 - Score: 34 ID: 75782 - Score: 577 ID: 50423 - Score: 588 ID: 84490 - Score: 506 ID: 7521 - Score: 390 ID: 7431 - Score: 298 ID: 3437 - Score: 72 ID: 24927 - Score: 539
+70 10
+ID: 6291 - Score: 143 ID: 9993 - Score: 237 ID: 64567 - Score: 304 ID: 29436 - Score: 477 ID: 71576 - Score: 454 ID: 23731 - Score: 567 ID: 31812 - Score: 104 ID: 83527 - Score: 358 ID: 76432 - Score: 165 ID: 26928 - Score: 521
+73 11
+ID: 79103 - Score: 107 ID: 69928 - Score: 276 ID: 20938 - Score: 507 ID: 82289 - Score: 551 ID: 22148 - Score: 87 ID: 30379 - Score: 233 ID: 92750 - Score: 357 ID: 88601 - Score: 258 ID: 78262 - Score: 466 ID: 61346 - Score: 425 ID: 76043 - Score: 318
+143 13
+ID: 39825 - Score: 310 ID: 66255 - Score: 206 ID: 77545 - Score: 303 ID: 52677 - Score: 183 ID: 66161 - Score: 1 ID: 279 - Score: 453 ID: 12602 - Score: 128 ID: 60993 - Score: 183 ID: 83523 - Score: 326 ID: 49036 - Score: 441 ID: 2562 - Score: 14 ID: 5193 - Score: 123 ID: 13638 - Score: 535
+84 14
+ID: 37440 - Score: 326 ID: 18411 - Score: 426 ID: 45810 - Score: 438 ID: 58794 - Score: 44 ID: 33692 - Score: 61 ID: 82077 - Score: 243 ID: 18348 - Score: 223 ID: 90842 - Score: 402 ID: 37438 - Score: 26 ID: 82737 - Score: 573 ID: 90880 - Score: 442 ID: 90543 - Score: 157 ID: 71298 - Score: 86 ID: 41018 - Score: 480
+43 14
+ID: 80189 - Score: 215 ID: 84351 - Score: 395 ID: 12029 - Score: 60 ID: 34357 - Score: 139 ID: 1300 - Score: 29 ID: 84667 - Score: 542 ID: 28951 - Score: 497 ID: 17070 - Score: 94 ID: 76079 - Score: 60 ID: 54371 - Score: 371 ID: 85041 - Score: 104 ID: 39292 - Score: 253 ID: 5579 - Score: 413 ID: 40922 - Score: 154
+74 13
+ID: 67280 - Score: 226 ID: 52742 - Score: 102 ID: 99556 - Score: 342 ID: 47298 - Score: 285 ID: 11804 - Score: 187 ID: 17935 - Score: 282 ID: 36552 - Score: 196 ID: 56128 - Score: 473 ID: 1629 - Score: 588 ID: 65769 - Score: 101 ID: 20945 - Score: 419 ID: 42042 - Score: 516 ID: 34196 - Score: 319
+63 17
+ID: 28879 - Score: 151 ID: 63248 - Score: 425 ID: 23223 - Score: 466 ID: 88126 - Score: 444 ID: 33416 - Score: 446 ID: 93113 - Score: 192 ID: 21716 - Score: 400 ID: 16242 - Score: 165 ID: 25965 - Score: 108 ID: 55968 - Score: 453 ID: 30165 - Score: 359 ID: 77140 - Score: 17 ID: 92940 - Score: 98 ID: 45240 - Score: 350 ID: 25008 - Score: 453 ID: 57221 - Score: 8 ID: 34920 - Score: 152
+178 14
+ID: 15696 - Score: 303 ID: 15008 - Score: 161 ID: 95541 - Score: 104 ID: 35873 - Score: 521 ID: 22363 - Score: 344 ID: 48325 - Score: 58 ID: 37052 - Score: 346 ID: 20627 - Score: 59 ID: 30541 - Score: 549 ID: 7805 - Score: 63 ID: 67149 - Score: 258 ID: 24744 - Score: 422 ID: 68949 - Score: 385 ID: 52494 - Score: 389
+201 14
+ID: 71506 - Score: 366 ID: 16015 - Score: 388 ID: 41939 - Score: 472 ID: 71461 - Score: 466 ID: 37292 - Score: 137 ID: 43702 - Score: 310 ID: 9003 - Score: 83 ID: 97865 - Score: 333 ID: 22782 - Score: 541 ID: 55418 - Score: 412 ID: 36432 - Score: 585 ID: 10122 - Score: 84 ID: 59402 - Score: 304 ID: 45238 - Score: 445
+33 13
+ID: 79505 - Score: 234 ID: 37618 - Score: 149 ID: 16578 - Score: 573 ID: 14856 - Score: 450 ID: 68835 - Score: 535 ID: 65864 - Score: 521 ID: 69331 - Score: 507 ID: 52455 - Score: 524 ID: 30297 - Score: 119 ID: 67446 - Score: 333 ID: 92382 - Score: 445 ID: 34019 - Score: 564 ID: 21653 - Score: 464
+123 17
+ID: 36267 - Score: 72 ID: 7972 - Score: 416 ID: 56091 - Score: 322 ID: 67345 - Score: 87 ID: 18185 - Score: 367 ID: 20738 - Score: 502 ID: 50208 - Score: 264 ID: 15639 - Score: 276 ID: 22966 - Score: 400 ID: 18576 - Score: 221 ID: 72176 - Score: 10 ID: 58430 - Score: 11 ID: 41563 - Score: 76 ID: 52104 - Score: 376 ID: 28135 - Score: 188 ID: 93122 - Score: 305 ID: 10348 - Score: 293
+138 17
+ID: 90963 - Score: 543 ID: 32701 - Score: 383 ID: 82677 - Score: 372 ID: 59784 - Score: 81 ID: 89877 - Score: 3 ID: 89306 - Score: 251 ID: 96122 - Score: 385 ID: 71658 - Score: 407 ID: 38349 - Score: 548 ID: 46999 - Score: 526 ID: 3257 - Score: 176 ID: 19494 - Score: 369 ID: 19752 - Score: 254 ID: 26228 - Score: 542 ID: 17819 - Score: 506 ID: 1245 - Score: 330 ID: 9876 - Score: 237
+109 17
+ID: 83469 - Score: 502 ID: 14563 - Score: 256 ID: 99720 - Score: 108 ID: 6005 - Score: 13 ID: 36814 - Score: 582 ID: 80047 - Score: 508 ID: 6688 - Score: 372 ID: 53431 - Score: 236 ID: 36017 - Score: 593 ID: 1127 - Score: 9 ID: 96201 - Score: 220 ID: 31234 - Score: 240 ID: 44771 - Score: 526 ID: 73208 - Score: 273 ID: 78690 - Score: 573 ID: 10753 - Score: 37 ID: 28527 - Score: 502
+90 18
+ID: 65404 - Score: 83 ID: 37135 - Score: 324 ID: 83735 - Score: 487 ID: 52541 - Score: 282 ID: 64411 - Score: 305 ID: 95721 - Score: 366 ID: 74876 - Score: 397 ID: 47964 - Score: 528 ID: 20587 - Score: 211 ID: 40872 - Score: 302 ID: 95653 - Score: 258 ID: 1478 - Score: 478 ID: 23367 - Score: 426 ID: 72951 - Score: 516 ID: 9142 - Score: 155 ID: 84496 - Score: 256 ID: 30424 - Score: 119 ID: 37417 - Score: 322
+196 10
+ID: 89215 - Score: 298 ID: 21560 - Score: 443 ID: 66180 - Score: 521 ID: 5115 - Score: 104 ID: 13141 - Score: 68 ID: 83139 - Score: 422 ID: 22238 - Score: 358 ID: 90527 - Score: 477 ID: 33435 - Score: 373 ID: 49095 - Score: 518
+100 12
+ID: 25238 - Score: 139 ID: 29372 - Score: 213 ID: 74537 - Score: 436 ID: 67960 - Score: 378 ID: 20998 - Score: 18 ID: 32900 - Score: 389 ID: 73596 - Score: 279 ID: 31311 - Score: 55 ID: 71020 - Score: 257 ID: 36106 - Score: 503 ID: 67697 - Score: 158 ID: 97288 - Score: 410
+52 19
+ID: 36808 - Score: 188 ID: 83658 - Score: 22 ID: 27381 - Score: 333 ID: 97618 - Score: 190 ID: 58568 - Score: 191 ID: 69736 - Score: 360 ID: 82886 - Score: 435 ID: 42359 - Score: 48 ID: 79254 - Score: 36 ID: 99295 - Score: 124 ID: 47297 - Score: 125 ID: 97294 - Score: 434 ID: 81158 - Score: 13 ID: 78912 - Score: 574 ID: 18026 - Score: 344 ID: 58885 - Score: 419 ID: 81132 - Score: 455 ID: 66143 - Score: 73 ID: 79233 - Score: 230
+188 14
+ID: 85832 - Score: 583 ID: 98908 - Score: 551 ID: 82222 - Score: 551 ID: 85481 - Score: 331 ID: 20310 - Score: 473 ID: 84319 - Score: 116 ID: 79917 - Score: 5 ID: 44499 - Score: 372 ID: 6047 - Score: 488 ID: 47202 - Score: 178 ID: 84003 - Score: 238 ID: 81597 - Score: 512 ID: 77152 - Score: 436 ID: 89969 - Score: 563
+68 13
+ID: 31459 - Score: 294 ID: 57548 - Score: 591 ID: 10197 - Score: 270 ID: 79229 - Score: 273 ID: 8566 - Score: 197 ID: 85163 - Score: 329 ID: 62543 - Score: 584 ID: 94481 - Score: 167 ID: 66584 - Score: 568 ID: 35280 - Score: 234 ID: 33438 - Score: 287 ID: 73468 - Score: 209 ID: 5298 - Score: 213
+189 20
+ID: 66236 - Score: 150 ID: 86126 - Score: 331 ID: 82215 - Score: 389 ID: 25200 - Score: 347 ID: 35951 - Score: 35 ID: 97539 - Score: 37 ID: 81063 - Score: 322 ID: 71241 - Score: 255 ID: 97186 - Score: 503 ID: 93551 - Score: 563 ID: 83098 - Score: 167 ID: 19050 - Score: 79 ID: 558 - Score: 412 ID: 67725 - Score: 395 ID: 50049 - Score: 555 ID: 19259 - Score: 469 ID: 46361 - Score: 285 ID: 88865 - Score: 568 ID: 75804 - Score: 250 ID: 59556 - Score: 30
+144 19
+ID: 22337 - Score: 114 ID: 68050 - Score: 542 ID: 74147 - Score: 468 ID: 66224 - Score: 443 ID: 51871 - Score: 353 ID: 98171 - Score: 248 ID: 17601 - Score: 564 ID: 81337 - Score: 296 ID: 90129 - Score: 108 ID: 19783 - Score: 535 ID: 74125 - Score: 38 ID: 48185 - Score: 64 ID: 36936 - Score: 484 ID: 92868 - Score: 216 ID: 82815 - Score: 331 ID: 44290 - Score: 185 ID: 82951 - Score: 227 ID: 5168 - Score: 253 ID: 431 - Score: 242
+187 12
+ID: 2104 - Score: 257 ID: 71418 - Score: 58 ID: 1131 - Score: 304 ID: 14574 - Score: 14 ID: 37435 - Score: 29 ID: 83417 - Score: 14 ID: 90225 - Score: 354 ID: 8958 - Score: 376 ID: 20996 - Score: 598 ID: 16673 - Score: 164 ID: 65305 - Score: 485 ID: 89318 - Score: 247
+32 10
+ID: 38606 - Score: 57 ID: 20014 - Score: 553 ID: 50751 - Score: 371 ID: 97929 - Score: 185 ID: 34352 - Score: 265 ID: 90270 - Score: 254 ID: 80734 - Score: 145 ID: 41228 - Score: 87 ID: 93731 - Score: 479 ID: 60474 - Score: 73
+62 13
+ID: 25446 - Score: 84 ID: 74295 - Score: 379 ID: 33960 - Score: 321 ID: 19676 - Score: 576 ID: 88391 - Score: 347 ID: 65506 - Score: 478 ID: 55153 - Score: 240 ID: 32276 - Score: 579 ID: 50224 - Score: 84 ID: 34883 - Score: 293 ID: 24209 - Score: 341 ID: 38034 - Score: 510 ID: 50167 - Score: 377
+185 20
+ID: 34603 - Score: 454 ID: 31531 - Score: 523 ID: 92716 - Score: 324 ID: 1563 - Score: 124 ID: 59268 - Score: 258 ID: 51679 - Score: 535 ID: 23743 - Score: 337 ID: 8393 - Score: 268 ID: 68514 - Score: 137 ID: 20578 - Score: 387 ID: 54999 - Score: 349 ID: 1773 - Score: 153 ID: 23886 - Score: 572 ID: 23847 - Score: 147 ID: 42303 - Score: 544 ID: 18316 - Score: 504 ID: 22544 - Score: 168 ID: 8286 - Score: 384 ID: 66884 - Score: 342 ID: 25879 - Score: 22
+167 19
+ID: 91886 - Score: 471 ID: 15259 - Score: 290 ID: 80055 - Score: 64 ID: 45177 - Score: 174 ID: 28225 - Score: 293 ID: 72109 - Score: 65 ID: 60871 - Score: 99 ID: 62572 - Score: 417 ID: 35985 - Score: 115 ID: 81155 - Score: 175 ID: 18981 - Score: 291 ID: 36303 - Score: 65 ID: 57990 - Score: 68 ID: 3846 - Score: 238 ID: 82163 - Score: 42 ID: 53815 - Score: 251 ID: 456 - Score: 202 ID: 19274 - Score: 416 ID: 9431 - Score: 305
+105 16
+ID: 45152 - Score: 108 ID: 24002 - Score: 101 ID: 52938 - Score: 508 ID: 68037 - Score: 56 ID: 55294 - Score: 122 ID: 10607 - Score: 73 ID: 51447 - Score: 596 ID: 48768 - Score: 431 ID: 86995 - Score: 119 ID: 95504 - Score: 4 ID: 64936 - Score: 163 ID: 78249 - Score: 589 ID: 26600 - Score: 367 ID: 44148 - Score: 205 ID: 94910 - Score: 396 ID: 88984 - Score: 345
+38 15
+ID: 8915 - Score: 32 ID: 21305 - Score: 200 ID: 45134 - Score: 325 ID: 42521 - Score: 508 ID: 97654 - Score: 432 ID: 96167 - Score: 435 ID: 10335 - Score: 128 ID: 40728 - Score: 245 ID: 92416 - Score: 323 ID: 61902 - Score: 476 ID: 5620 - Score: 243 ID: 40183 - Score: 380 ID: 21768 - Score: 335 ID: 734 - Score: 472 ID: 51190 - Score: 131
+66 15
+ID: 55593 - Score: 360 ID: 49758 - Score: 400 ID: 83824 - Score: 81 ID: 26607 - Score: 6 ID: 11335 - Score: 75 ID: 54391 - Score: 516 ID: 22348 - Score: 116 ID: 61868 - Score: 472 ID: 69045 - Score: 304 ID: 15998 - Score: 274 ID: 56934 - Score: 449 ID: 70205 - Score: 357 ID: 72416 - Score: 281 ID: 13197 - Score: 57 ID: 77667 - Score: 549
+198 13
+ID: 40934 - Score: 194 ID: 36870 - Score: 560 ID: 11316 - Score: 427 ID: 3333 - Score: 460 ID: 9872 - Score: 217 ID: 42091 - Score: 201 ID: 19029 - Score: 362 ID: 64023 - Score: 90 ID: 79943 - Score: 535 ID: 37953 - Score: 132 ID: 86139 - Score: 120 ID: 46140 - Score: 228 ID: 38878 - Score: 21
+154 14
+ID: 85080 - Score: 536 ID: 79976 - Score: 320 ID: 53038 - Score: 267 ID: 70841 - Score: 594 ID: 42915 - Score: 216 ID: 63052 - Score: 17 ID: 5007 - Score: 374 ID: 21049 - Score: 451 ID: 92325 - Score: 363 ID: 75769 - Score: 363 ID: 81495 - Score: 38 ID: 60864 - Score: 207 ID: 67699 - Score: 143 ID: 61596 - Score: 296
+80 17
+ID: 37356 - Score: 243 ID: 94117 - Score: 108 ID: 95825 - Score: 500 ID: 96285 - Score: 101 ID: 12030 - Score: 154 ID: 13772 - Score: 216 ID: 81956 - Score: 408 ID: 80494 - Score: 440 ID: 96007 - Score: 243 ID: 37071 - Score: 141 ID: 22662 - Score: 184 ID: 46439 - Score: 415 ID: 67483 - Score: 306 ID: 92650 - Score: 335 ID: 5458 - Score: 501 ID: 46553 - Score: 469 ID: 17457 - Score: 415
+60 18
+ID: 72477 - Score: 442 ID: 49316 - Score: 187 ID: 5746 - Score: 43 ID: 83752 - Score: 94 ID: 40806 - Score: 380 ID: 59363 - Score: 200 ID: 70657 - Score: 361 ID: 82467 - Score: 311 ID: 5240 - Score: 359 ID: 48671 - Score: 65 ID: 56812 - Score: 588 ID: 8637 - Score: 519 ID: 52034 - Score: 191 ID: 17013 - Score: 430 ID: 69273 - Score: 87 ID: 94087 - Score: 209 ID: 28871 - Score: 259 ID: 46319 - Score: 381
+87 17
+ID: 50554 - Score: 152 ID: 57561 - Score: 361 ID: 25699 - Score: 148 ID: 27257 - Score: 340 ID: 41079 - Score: 312 ID: 98751 - Score: 456 ID: 50480 - Score: 290 ID: 2467 - Score: 372 ID: 98047 - Score: 7 ID: 34907 - Score: 345 ID: 21592 - Score: 281 ID: 78681 - Score: 200 ID: 85988 - Score: 233 ID: 44709 - Score: 116 ID: 28830 - Score: 8 ID: 5534 - Score: 386 ID: 71808 - Score: 423
+10 10
+ID: 2967 - Score: 487 ID: 36199 - Score: 347 ID: 12532 - Score: 68 ID: 14256 - Score: 16 ID: 42576 - Score: 313 ID: 25447 - Score: 173 ID: 38822 - Score: 100 ID: 77591 - Score: 121 ID: 40578 - Score: 258 ID: 24649 - Score: 134
+124 20
+ID: 73992 - Score: 446 ID: 14797 - Score: 144 ID: 27245 - Score: 425 ID: 59965 - Score: 73 ID: 85089 - Score: 405 ID: 61355 - Score: 511 ID: 15396 - Score: 127 ID: 19998 - Score: 169 ID: 24621 - Score: 551 ID: 95809 - Score: 320 ID: 24050 - Score: 462 ID: 98554 - Score: 120 ID: 90452 - Score: 142 ID: 72008 - Score: 121 ID: 15639 - Score: 276 ID: 14060 - Score: 416 ID: 50535 - Score: 165 ID: 22781 - Score: 192 ID: 1761 - Score: 300 ID: 42217 - Score: 306
+110 14
+ID: 34514 - Score: 31 ID: 18974 - Score: 246 ID: 88693 - Score: 193 ID: 56354 - Score: 88 ID: 58343 - Score: 567 ID: 7453 - Score: 410 ID: 89159 - Score: 137 ID: 55957 - Score: 255 ID: 18543 - Score: 577 ID: 60416 - Score: 459 ID: 58432 - Score: 236 ID: 73627 - Score: 421 ID: 12100 - Score: 433 ID: 58455 - Score: 71
+82 18
+ID: 63147 - Score: 181 ID: 48471 - Score: 370 ID: 48886 - Score: 55 ID: 21704 - Score: 342 ID: 19844 - Score: 488 ID: 5893 - Score: 407 ID: 58931 - Score: 96 ID: 75523 - Score: 529 ID: 7065 - Score: 370 ID: 56986 - Score: 445 ID: 35441 - Score: 552 ID: 13415 - Score: 203 ID: 31572 - Score: 10 ID: 29937 - Score: 137 ID: 80234 - Score: 593 ID: 22224 - Score: 199 ID: 99404 - Score: 261 ID: 14052 - Score: 421
+145 13
+ID: 2947 - Score: 432 ID: 17792 - Score: 199 ID: 42861 - Score: 409 ID: 18171 - Score: 96 ID: 83509 - Score: 172 ID: 43739 - Score: 177 ID: 10017 - Score: 269 ID: 91336 - Score: 530 ID: 8761 - Score: 225 ID: 34266 - Score: 409 ID: 28599 - Score: 253 ID: 11501 - Score: 40 ID: 17911 - Score: 17
+13 16
+ID: 33975 - Score: 425 ID: 80593 - Score: 426 ID: 92709 - Score: 241 ID: 46105 - Score: 177 ID: 292 - Score: 212 ID: 22579 - Score: 367 ID: 34910 - Score: 427 ID: 25167 - Score: 186 ID: 59458 - Score: 60 ID: 14748 - Score: 481 ID: 19001 - Score: 429 ID: 90680 - Score: 234 ID: 84405 - Score: 241 ID: 80223 - Score: 351 ID: 65060 - Score: 423 ID: 54831 - Score: 25
+195 16
+ID: 69838 - Score: 403 ID: 78761 - Score: 130 ID: 14697 - Score: 299 ID: 17296 - Score: 28 ID: 78402 - Score: 511 ID: 78693 - Score: 197 ID: 36881 - Score: 586 ID: 43280 - Score: 53 ID: 60511 - Score: 222 ID: 20739 - Score: 600 ID: 12114 - Score: 218 ID: 40808 - Score: 276 ID: 73457 - Score: 63 ID: 78174 - Score: 501 ID: 53204 - Score: 182 ID: 27035 - Score: 422
+16 18
+ID: 46212 - Score: 475 ID: 80933 - Score: 169 ID: 12081 - Score: 407 ID: 86246 - Score: 126 ID: 65538 - Score: 497 ID: 78933 - Score: 189 ID: 79317 - Score: 120 ID: 45051 - Score: 176 ID: 66289 - Score: 343 ID: 40720 - Score: 379 ID: 69365 - Score: 236 ID: 14484 - Score: 396 ID: 31044 - Score: 407 ID: 21273 - Score: 130 ID: 46573 - Score: 518 ID: 59477 - Score: 566 ID: 45060 - Score: 573 ID: 19163 - Score: 94
+126 13
+ID: 26235 - Score: 595 ID: 28788 - Score: 32 ID: 82184 - Score: 225 ID: 52847 - Score: 582 ID: 78172 - Score: 189 ID: 66217 - Score: 358 ID: 60661 - Score: 21 ID: 25398 - Score: 356 ID: 81361 - Score: 46 ID: 80486 - Score: 507 ID: 60367 - Score: 443 ID: 80097 - Score: 484 ID: 89595 - Score: 470
+36 20
+ID: 30060 - Score: 298 ID: 43003 - Score: 27 ID: 2357 - Score: 370 ID: 89878 - Score: 393 ID: 78426 - Score: 363 ID: 18738 - Score: 271 ID: 99462 - Score: 336 ID: 99914 - Score: 416 ID: 38217 - Score: 356 ID: 63319 - Score: 382 ID: 73880 - Score: 428 ID: 46868 - Score: 167 ID: 26656 - Score: 272 ID: 19921 - Score: 112 ID: 26631 - Score: 75 ID: 95899 - Score: 316 ID: 35593 - Score: 146 ID: 59274 - Score: 480 ID: 77963 - Score: 514 ID: 25237 - Score: 18
+76 17
+ID: 66622 - Score: 395 ID: 54818 - Score: 241 ID: 81635 - Score: 71 ID: 36898 - Score: 496 ID: 19617 - Score: 503 ID: 77142 - Score: 426 ID: 1634 - Score: 471 ID: 98446 - Score: 413 ID: 71229 - Score: 439 ID: 21821 - Score: 224 ID: 67143 - Score: 205 ID: 91509 - Score: 119 ID: 95928 - Score: 207 ID: 7302 - Score: 220 ID: 42055 - Score: 230 ID: 99304 - Score: 190 ID: 46769 - Score: 40
+173 15
+ID: 9252 - Score: 439 ID: 61914 - Score: 152 ID: 56740 - Score: 364 ID: 58050 - Score: 29 ID: 27094 - Score: 390 ID: 42684 - Score: 561 ID: 38423 - Score: 209 ID: 39340 - Score: 457 ID: 29838 - Score: 496 ID: 55434 - Score: 224 ID: 94245 - Score: 357 ID: 17147 - Score: 201 ID: 10732 - Score: 384 ID: 33992 - Score: 526 ID: 26205 - Score: 283
+67 20
+ID: 66461 - Score: 35 ID: 13875 - Score: 5 ID: 8420 - Score: 285 ID: 17819 - Score: 506 ID: 80138 - Score: 524 ID: 10379 - Score: 556 ID: 97380 - Score: 598 ID: 38474 - Score: 485 ID: 96609 - Score: 372 ID: 43532 - Score: 339 ID: 3776 - Score: 302 ID: 53171 - Score: 470 ID: 23088 - Score: 395 ID: 78606 - Score: 416 ID: 19160 - Score: 369 ID: 97315 - Score: 88 ID: 43389 - Score: 127 ID: 70823 - Score: 131 ID: 56251 - Score: 294 ID: 29957 - Score: 337
+122 10
+ID: 98090 - Score: 349 ID: 78834 - Score: 316 ID: 55902 - Score: 246 ID: 37843 - Score: 349 ID: 13385 - Score: 261 ID: 70053 - Score: 284 ID: 22078 - Score: 529 ID: 12344 - Score: 309 ID: 89613 - Score: 561 ID: 47800 - Score: 321
+64 12
+ID: 60687 - Score: 516 ID: 11463 - Score: 577 ID: 71728 - Score: 1 ID: 67599 - Score: 239 ID: 60409 - Score: 307 ID: 49651 - Score: 276 ID: 24964 - Score: 512 ID: 63368 - Score: 157 ID: 96345 - Score: 480 ID: 25621 - Score: 168 ID: 76638 - Score: 413 ID: 13012 - Score: 539
+194 16
+ID: 9573 - Score: 159 ID: 89950 - Score: 575 ID: 25795 - Score: 169 ID: 66598 - Score: 98 ID: 12702 - Score: 420 ID: 87105 - Score: 320 ID: 43425 - Score: 86 ID: 86222 - Score: 115 ID: 49854 - Score: 275 ID: 70160 - Score: 136 ID: 30774 - Score: 357 ID: 82197 - Score: 56 ID: 64388 - Score: 355 ID: 74088 - Score: 438 ID: 28497 - Score: 161 ID: 34945 - Score: 597
+19 20
+ID: 2596 - Score: 545 ID: 45938 - Score: 211 ID: 41297 - Score: 492 ID: 59697 - Score: 405 ID: 33832 - Score: 377 ID: 84845 - Score: 166 ID: 84320 - Score: 120 ID: 53181 - Score: 414 ID: 34109 - Score: 399 ID: 82303 - Score: 486 ID: 53043 - Score: 433 ID: 57153 - Score: 570 ID: 62074 - Score: 268 ID: 31923 - Score: 374 ID: 10987 - Score: 353 ID: 15417 - Score: 374 ID: 289 - Score: 371 ID: 77516 - Score: 458 ID: 50289 - Score: 132 ID: 54031 - Score: 110
+75 12
+ID: 65236 - Score: 176 ID: 80304 - Score: 212 ID: 90752 - Score: 86 ID: 43652 - Score: 443 ID: 19632 - Score: 162 ID: 22522 - Score: 406 ID: 45665 - Score: 202 ID: 28878 - Score: 125 ID: 28823 - Score: 424 ID: 92243 - Score: 258 ID: 72551 - Score: 454 ID: 43815 - Score: 382
+102 16
+ID: 53312 - Score: 211 ID: 98585 - Score: 358 ID: 19046 - Score: 434 ID: 19152 - Score: 395 ID: 99980 - Score: 457 ID: 35003 - Score: 501 ID: 53568 - Score: 433 ID: 14504 - Score: 194 ID: 35456 - Score: 68 ID: 85069 - Score: 109 ID: 79514 - Score: 378 ID: 52354 - Score: 522 ID: 98603 - Score: 477 ID: 8585 - Score: 237 ID: 11885 - Score: 54 ID: 7711 - Score: 175
+72 19
+ID: 12452 - Score: 232 ID: 4881 - Score: 387 ID: 11162 - Score: 402 ID: 59615 - Score: 247 ID: 60433 - Score: 139 ID: 38635 - Score: 94 ID: 46450 - Score: 512 ID: 91784 - Score: 309 ID: 91093 - Score: 443 ID: 52737 - Score: 13 ID: 89314 - Score: 513 ID: 86298 - Score: 542 ID: 48253 - Score: 475 ID: 16099 - Score: 55 ID: 54942 - Score: 331 ID: 17698 - Score: 162 ID: 63639 - Score: 26 ID: 78903 - Score: 556 ID: 4102 - Score: 374
+40 18
+ID: 32351 - Score: 439 ID: 54819 - Score: 242 ID: 67314 - Score: 272 ID: 2214 - Score: 266 ID: 55044 - Score: 3 ID: 2068 - Score: 552 ID: 80961 - Score: 565 ID: 35481 - Score: 331 ID: 54496 - Score: 278 ID: 48977 - Score: 208 ID: 71595 - Score: 195 ID: 72243 - Score: 236 ID: 56150 - Score: 68 ID: 36966 - Score: 357 ID: 74784 - Score: 554 ID: 96238 - Score: 362 ID: 10041 - Score: 117 ID: 18317 - Score: 199
+192 19
+ID: 50754 - Score: 547 ID: 62194 - Score: 97 ID: 3792 - Score: 128 ID: 8270 - Score: 297 ID: 43949 - Score: 128 ID: 76387 - Score: 600 ID: 31362 - Score: 356 ID: 98221 - Score: 288 ID: 82040 - Score: 39 ID: 19879 - Score: 511 ID: 92427 - Score: 472 ID: 842 - Score: 86 ID: 75505 - Score: 32 ID: 90510 - Score: 383 ID: 96130 - Score: 241 ID: 35813 - Score: 202 ID: 13411 - Score: 404 ID: 53954 - Score: 122 ID: 12389 - Score: 434
+176 13
+ID: 16357 - Score: 22 ID: 85538 - Score: 563 ID: 73924 - Score: 291 ID: 52991 - Score: 436 ID: 10945 - Score: 96 ID: 28722 - Score: 495 ID: 71113 - Score: 14 ID: 19115 - Score: 125 ID: 517 - Score: 340 ID: 80255 - Score: 314 ID: 13606 - Score: 97 ID: 2223 - Score: 167 ID: 16998 - Score: 113
+69 13
+ID: 65739 - Score: 184 ID: 52387 - Score: 17 ID: 61912 - Score: 26 ID: 68154 - Score: 587 ID: 11810 - Score: 35 ID: 5808 - Score: 92 ID: 86023 - Score: 272 ID: 61389 - Score: 593 ID: 24952 - Score: 262 ID: 92147 - Score: 117 ID: 51531 - Score: 430 ID: 35067 - Score: 13 ID: 84681 - Score: 283
+156 11
+ID: 73296 - Score: 311 ID: 65197 - Score: 462 ID: 42859 - Score: 240 ID: 15885 - Score: 465 ID: 46885 - Score: 262 ID: 54977 - Score: 412 ID: 20438 - Score: 270 ID: 13469 - Score: 488 ID: 47307 - Score: 124 ID: 36043 - Score: 29 ID: 1251 - Score: 416
+106 15
+ID: 69932 - Score: 390 ID: 58193 - Score: 116 ID: 59881 - Score: 415 ID: 20920 - Score: 179 ID: 30504 - Score: 244 ID: 91734 - Score: 264 ID: 55820 - Score: 551 ID: 41833 - Score: 383 ID: 48513 - Score: 206 ID: 13369 - Score: 592 ID: 3165 - Score: 249 ID: 23403 - Score: 397 ID: 27316 - Score: 440 ID: 6056 - Score: 2 ID: 35643 - Score: 399
+22 12
+ID: 22817 - Score: 376 ID: 2491 - Score: 409 ID: 82315 - Score: 67 ID: 82744 - Score: 19 ID: 28374 - Score: 289 ID: 44960 - Score: 312 ID: 61262 - Score: 311 ID: 93602 - Score: 316 ID: 92610 - Score: 144 ID: 75945 - Score: 284 ID: 52246 - Score: 462 ID: 72092 - Score: 444
+92 10
+ID: 76538 - Score: 57 ID: 33545 - Score: 407 ID: 42710 - Score: 218 ID: 20672 - Score: 405 ID: 73669 - Score: 520 ID: 87154 - Score: 487 ID: 23932 - Score: 202 ID: 57354 - Score: 305 ID: 37274 - Score: 320 ID: 9131 - Score: 322
+174 16
+ID: 57313 - Score: 28 ID: 17473 - Score: 343 ID: 2601 - Score: 115 ID: 56952 - Score: 26 ID: 41936 - Score: 25 ID: 12827 - Score: 362 ID: 48836 - Score: 248 ID: 18357 - Score: 328 ID: 22431 - Score: 332 ID: 3230 - Score: 136 ID: 49199 - Score: 577 ID: 87113 - Score: 156 ID: 54250 - Score: 286 ID: 69983 - Score: 451 ID: 93915 - Score: 44 ID: 7451 - Score: 164
+171 18
+ID: 98551 - Score: 532 ID: 96439 - Score: 544 ID: 43211 - Score: 138 ID: 33601 - Score: 207 ID: 25686 - Score: 318 ID: 14190 - Score: 545 ID: 93834 - Score: 271 ID: 1041 - Score: 575 ID: 96480 - Score: 459 ID: 28062 - Score: 461 ID: 6770 - Score: 526 ID: 8249 - Score: 174 ID: 46997 - Score: 228 ID: 19756 - Score: 399 ID: 77844 - Score: 177 ID: 83172 - Score: 530 ID: 52473 - Score: 28 ID: 76712 - Score: 555
+25 13
+ID: 8959 - Score: 439 ID: 87370 - Score: 3 ID: 28562 - Score: 121 ID: 69060 - Score: 581 ID: 14449 - Score: 336 ID: 97951 - Score: 356 ID: 16523 - Score: 572 ID: 5898 - Score: 98 ID: 87786 - Score: 170 ID: 26816 - Score: 78 ID: 60620 - Score: 218 ID: 79583 - Score: 250 ID: 31263 - Score: 502
+30 10
+ID: 38354 - Score: 4 ID: 18368 - Score: 365 ID: 77688 - Score: 430 ID: 79533 - Score: 346 ID: 8490 - Score: 547 ID: 82894 - Score: 96 ID: 60328 - Score: 509 ID: 20501 - Score: 144 ID: 56455 - Score: 346 ID: 2933 - Score: 454
+134 17
+ID: 403 - Score: 85 ID: 74298 - Score: 479 ID: 61847 - Score: 359 ID: 67647 - Score: 383 ID: 9886 - Score: 445 ID: 88870 - Score: 473 ID: 45846 - Score: 86 ID: 41101 - Score: 551 ID: 19313 - Score: 444 ID: 28793 - Score: 417 ID: 47633 - Score: 221 ID: 24980 - Score: 305 ID: 64887 - Score: 600 ID: 47729 - Score: 271 ID: 95907 - Score: 458 ID: 16075 - Score: 425 ID: 5737 - Score: 45
+50 13
+ID: 25630 - Score: 394 ID: 29395 - Score: 562 ID: 16855 - Score: 189 ID: 84778 - Score: 53 ID: 18611 - Score: 285 ID: 10110 - Score: 556 ID: 39797 - Score: 435 ID: 17550 - Score: 50 ID: 41246 - Score: 127 ID: 68416 - Score: 450 ID: 42774 - Score: 418 ID: 61638 - Score: 458 ID: 75002 - Score: 335
+15 14
+ID: 81548 - Score: 452 ID: 2196 - Score: 154 ID: 29618 - Score: 53 ID: 17745 - Score: 189 ID: 12330 - Score: 18 ID: 23394 - Score: 472 ID: 34990 - Score: 451 ID: 83108 - Score: 17 ID: 97244 - Score: 498 ID: 1051 - Score: 528 ID: 59740 - Score: 206 ID: 17740 - Score: 517 ID: 21436 - Score: 100 ID: 8913 - Score: 224
+131 17
+ID: 10950 - Score: 283 ID: 28985 - Score: 71 ID: 34517 - Score: 363 ID: 85533 - Score: 267 ID: 71666 - Score: 329 ID: 56828 - Score: 63 ID: 72683 - Score: 385 ID: 76953 - Score: 73 ID: 34978 - Score: 346 ID: 72352 - Score: 247 ID: 6272 - Score: 384 ID: 93985 - Score: 510 ID: 24483 - Score: 151 ID: 39690 - Score: 543 ID: 10523 - Score: 25 ID: 79822 - Score: 257 ID: 46392 - Score: 260
+155 15
+ID: 9061 - Score: 587 ID: 74994 - Score: 358 ID: 23530 - Score: 102 ID: 20637 - Score: 482 ID: 95233 - Score: 203 ID: 56899 - Score: 176 ID: 65765 - Score: 57 ID: 41601 - Score: 452 ID: 35375 - Score: 290 ID: 77765 - Score: 144 ID: 40826 - Score: 580 ID: 78110 - Score: 493 ID: 93499 - Score: 595 ID: 86273 - Score: 48 ID: 401 - Score: 105
+78 15
+ID: 12249 - Score: 485 ID: 51814 - Score: 339 ID: 20552 - Score: 102 ID: 53971 - Score: 359 ID: 54051 - Score: 366 ID: 25169 - Score: 41 ID: 53839 - Score: 63 ID: 17734 - Score: 516 ID: 5862 - Score: 451 ID: 6719 - Score: 384 ID: 74517 - Score: 181 ID: 43271 - Score: 247 ID: 7306 - Score: 16 ID: 14333 - Score: 449 ID: 25401 - Score: 435
+150 15
+ID: 96450 - Score: 589 ID: 93103 - Score: 280 ID: 16000 - Score: 500 ID: 7834 - Score: 265 ID: 16788 - Score: 15 ID: 48953 - Score: 112 ID: 57972 - Score: 334 ID: 81884 - Score: 262 ID: 4579 - Score: 197 ID: 33273 - Score: 3 ID: 17962 - Score: 237 ID: 96729 - Score: 328 ID: 63625 - Score: 492 ID: 47914 - Score: 468 ID: 78811 - Score: 298
+133 18
+ID: 82122 - Score: 5 ID: 12199 - Score: 72 ID: 33453 - Score: 53 ID: 55070 - Score: 532 ID: 12428 - Score: 301 ID: 86155 - Score: 487 ID: 80314 - Score: 135 ID: 87782 - Score: 258 ID: 45686 - Score: 449 ID: 91673 - Score: 524 ID: 78260 - Score: 376 ID: 7565 - Score: 29 ID: 10438 - Score: 117 ID: 21351 - Score: 391 ID: 74057 - Score: 180 ID: 49987 - Score: 235 ID: 33861 - Score: 319 ID: 84646 - Score: 200
+169 16
+ID: 98095 - Score: 261 ID: 11989 - Score: 584 ID: 69006 - Score: 396 ID: 89528 - Score: 506 ID: 41858 - Score: 230 ID: 25353 - Score: 92 ID: 88125 - Score: 279 ID: 34351 - Score: 86 ID: 83015 - Score: 306 ID: 6516 - Score: 282 ID: 79875 - Score: 299 ID: 82712 - Score: 353 ID: 24116 - Score: 600 ID: 16510 - Score: 423 ID: 80122 - Score: 262 ID: 64322 - Score: 279
+159 17
+ID: 1475 - Score: 552 ID: 41696 - Score: 144 ID: 17575 - Score: 388 ID: 2286 - Score: 203 ID: 75694 - Score: 56 ID: 95085 - Score: 25 ID: 28313 - Score: 503 ID: 69649 - Score: 269 ID: 77305 - Score: 562 ID: 74531 - Score: 546 ID: 17971 - Score: 68 ID: 38822 - Score: 100 ID: 75567 - Score: 226 ID: 42404 - Score: 318 ID: 33318 - Score: 292 ID: 34480 - Score: 105 ID: 5647 - Score: 328
+35 10
+ID: 38402 - Score: 225 ID: 39949 - Score: 387 ID: 23008 - Score: 499 ID: 34846 - Score: 53 ID: 52920 - Score: 239 ID: 17816 - Score: 246 ID: 45746 - Score: 13 ID: 16035 - Score: 46 ID: 7718 - Score: 11 ID: 14697 - Score: 299
+139 15
+ID: 35989 - Score: 434 ID: 12298 - Score: 524 ID: 78308 - Score: 404 ID: 2234 - Score: 527 ID: 4072 - Score: 491 ID: 56343 - Score: 215 ID: 7340 - Score: 92 ID: 87626 - Score: 121 ID: 4884 - Score: 518 ID: 54397 - Score: 554 ID: 59816 - Score: 281 ID: 46684 - Score: 138 ID: 59516 - Score: 338 ID: 29872 - Score: 474 ID: 34165 - Score: 288
+89 20
+ID: 32438 - Score: 297 ID: 75415 - Score: 128 ID: 72941 - Score: 534 ID: 98228 - Score: 148 ID: 74429 - Score: 142 ID: 43448 - Score: 186 ID: 19047 - Score: 105 ID: 29904 - Score: 377 ID: 93351 - Score: 60 ID: 39105 - Score: 197 ID: 72340 - Score: 231 ID: 28626 - Score: 537 ID: 70486 - Score: 341 ID: 5836 - Score: 246 ID: 18455 - Score: 442 ID: 88628 - Score: 466 ID: 44708 - Score: 72 ID: 66447 - Score: 99 ID: 19252 - Score: 553 ID: 82939 - Score: 354
+116 12
+ID: 90934 - Score: 167 ID: 35172 - Score: 365 ID: 17844 - Score: 240 ID: 90103 - Score: 385 ID: 73207 - Score: 457 ID: 36649 - Score: 307 ID: 44003 - Score: 361 ID: 1333 - Score: 100 ID: 39838 - Score: 234 ID: 87578 - Score: 287 ID: 17924 - Score: 469 ID: 20463 - Score: 156
+8 12
+ID: 53591 - Score: 217 ID: 26670 - Score: 511 ID: 82683 - Score: 210 ID: 9995 - Score: 236 ID: 6488 - Score: 385 ID: 16557 - Score: 491 ID: 47723 - Score: 48 ID: 71854 - Score: 394 ID: 55075 - Score: 151 ID: 44699 - Score: 231 ID: 28843 - Score: 125 ID: 29784 - Score: 376
+193 16
+ID: 82723 - Score: 317 ID: 15259 - Score: 290 ID: 52786 - Score: 463 ID: 14292 - Score: 529 ID: 39433 - Score: 93 ID: 5101 - Score: 276 ID: 24075 - Score: 295 ID: 62625 - Score: 558 ID: 1573 - Score: 459 ID: 98527 - Score: 551 ID: 23224 - Score: 228 ID: 9885 - Score: 574 ID: 96349 - Score: 341 ID: 77694 - Score: 554 ID: 33772 - Score: 306 ID: 33768 - Score: 543
+86 20
+ID: 92133 - Score: 274 ID: 16121 - Score: 517 ID: 43935 - Score: 529 ID: 62883 - Score: 433 ID: 10795 - Score: 538 ID: 41539 - Score: 452 ID: 99786 - Score: 130 ID: 7957 - Score: 172 ID: 62817 - Score: 426 ID: 7112 - Score: 257 ID: 36423 - Score: 570 ID: 72443 - Score: 21 ID: 25588 - Score: 282 ID: 85049 - Score: 205 ID: 42084 - Score: 358 ID: 96175 - Score: 183 ID: 47605 - Score: 277 ID: 3767 - Score: 456 ID: 40976 - Score: 50 ID: 49254 - Score: 264
+29 18
+ID: 50056 - Score: 25 ID: 93750 - Score: 598 ID: 33336 - Score: 370 ID: 99675 - Score: 117 ID: 77350 - Score: 246 ID: 80009 - Score: 474 ID: 69361 - Score: 493 ID: 69534 - Score: 6 ID: 33042 - Score: 507 ID: 68449 - Score: 542 ID: 77682 - Score: 574 ID: 97733 - Score: 47 ID: 23600 - Score: 18 ID: 68691 - Score: 348 ID: 80532 - Score: 585 ID: 12708 - Score: 531 ID: 55674 - Score: 419 ID: 66311 - Score: 561
+115 10
+ID: 96238 - Score: 362 ID: 76397 - Score: 423 ID: 15264 - Score: 386 ID: 99249 - Score: 313 ID: 60419 - Score: 20 ID: 55235 - Score: 179 ID: 50746 - Score: 193 ID: 58775 - Score: 416 ID: 5443 - Score: 23 ID: 44635 - Score: 328
+5 16
+ID: 62891 - Score: 174 ID: 98759 - Score: 408 ID: 31929 - Score: 311 ID: 70553 - Score: 451 ID: 47081 - Score: 413 ID: 69906 - Score: 13 ID: 86009 - Score: 371 ID: 34776 - Score: 82 ID: 14459 - Score: 403 ID: 83777 - Score: 274 ID: 90613 - Score: 584 ID: 32713 - Score: 46 ID: 30091 - Score: 545 ID: 48874 - Score: 588 ID: 41431 - Score: 85 ID: 85820 - Score: 21
+96 10
+ID: 89929 - Score: 101 ID: 98580 - Score: 323 ID: 70781 - Score: 505 ID: 17801 - Score: 352 ID: 18674 - Score: 219 ID: 28444 - Score: 247 ID: 64405 - Score: 416 ID: 47636 - Score: 262 ID: 23281 - Score: 23 ID: 75670 - Score: 421
+3 14
+ID: 54205 - Score: 484 ID: 28715 - Score: 178 ID: 1441 - Score: 153 ID: 75988 - Score: 354 ID: 43193 - Score: 110 ID: 4982 - Score: 355 ID: 19769 - Score: 194 ID: 93556 - Score: 377 ID: 6008 - Score: 538 ID: 73436 - Score: 334 ID: 23414 - Score: 269 ID: 49233 - Score: 531 ID: 68679 - Score: 351 ID: 92770 - Score: 269
+55 20
+ID: 54182 - Score: 234 ID: 44334 - Score: 190 ID: 88825 - Score: 284 ID: 95128 - Score: 364 ID: 2172 - Score: 247 ID: 2612 - Score: 275 ID: 30150 - Score: 410 ID: 49673 - Score: 330 ID: 462 - Score: 84 ID: 86566 - Score: 331 ID: 26334 - Score: 346 ID: 68662 - Score: 74 ID: 34149 - Score: 508 ID: 13647 - Score: 344 ID: 52714 - Score: 565 ID: 88101 - Score: 374 ID: 37240 - Score: 560 ID: 79878 - Score: 502 ID: 30930 - Score: 478 ID: 12794 - Score: 332
+103 10
+ID: 5350 - Score: 143 ID: 37898 - Score: 554 ID: 97035 - Score: 348 ID: 3032 - Score: 486 ID: 69443 - Score: 400 ID: 46225 - Score: 395 ID: 76913 - Score: 347 ID: 71029 - Score: 221 ID: 46425 - Score: 101 ID: 45409 - Score: 161
+119 10
+ID: 76328 - Score: 490 ID: 59319 - Score: 545 ID: 88914 - Score: 374 ID: 91459 - Score: 535 ID: 72291 - Score: 98 ID: 14639 - Score: 347 ID: 40858 - Score: 432 ID: 91944 - Score: 9 ID: 54033 - Score: 127 ID: 86752 - Score: 465
+130 11
+ID: 87349 - Score: 211 ID: 83421 - Score: 183 ID: 52276 - Score: 36 ID: 23705 - Score: 2 ID: 78772 - Score: 261 ID: 92828 - Score: 177 ID: 18406 - Score: 532 ID: 15660 - Score: 319 ID: 78198 - Score: 251 ID: 74051 - Score: 351 ID: 67453 - Score: 303
+165 19
+ID: 88798 - Score: 41 ID: 71402 - Score: 348 ID: 51720 - Score: 123 ID: 91426 - Score: 242 ID: 81958 - Score: 437 ID: 33518 - Score: 49 ID: 6338 - Score: 498 ID: 29967 - Score: 41 ID: 37089 - Score: 529 ID: 76135 - Score: 464 ID: 56855 - Score: 571 ID: 78600 - Score: 363 ID: 77356 - Score: 277 ID: 28355 - Score: 561 ID: 82111 - Score: 484 ID: 70232 - Score: 588 ID: 57068 - Score: 363 ID: 78531 - Score: 337 ID: 77458 - Score: 574
+23 15
+ID: 33589 - Score: 504 ID: 41636 - Score: 236 ID: 37676 - Score: 391 ID: 22914 - Score: 134 ID: 30360 - Score: 387 ID: 26317 - Score: 146 ID: 89639 - Score: 28 ID: 98955 - Score: 358 ID: 26113 - Score: 305 ID: 33117 - Score: 126 ID: 74428 - Score: 346 ID: 47054 - Score: 215 ID: 79922 - Score: 264 ID: 51430 - Score: 492 ID: 21213 - Score: 426
+142 10
+ID: 23765 - Score: 599 ID: 52504 - Score: 486 ID: 72905 - Score: 413 ID: 70926 - Score: 470 ID: 69776 - Score: 275 ID: 41397 - Score: 322 ID: 27708 - Score: 568 ID: 29870 - Score: 263 ID: 44876 - Score: 289 ID: 25320 - Score: 463
+94 10
+ID: 25513 - Score: 337 ID: 63335 - Score: 186 ID: 50346 - Score: 515 ID: 30997 - Score: 69 ID: 49421 - Score: 39 ID: 10541 - Score: 242 ID: 20853 - Score: 444 ID: 77339 - Score: 571 ID: 87974 - Score: 561 ID: 55136 - Score: 383
+181 12
+ID: 45774 - Score: 403 ID: 50000 - Score: 163 ID: 88702 - Score: 595 ID: 72058 - Score: 281 ID: 97164 - Score: 481 ID: 94684 - Score: 334 ID: 33637 - Score: 456 ID: 73019 - Score: 552 ID: 8538 - Score: 581 ID: 66738 - Score: 415 ID: 704 - Score: 370 ID: 9526 - Score: 44
+39 10
+ID: 52877 - Score: 322 ID: 75554 - Score: 408 ID: 40361 - Score: 415 ID: 42324 - Score: 213 ID: 81581 - Score: 5 ID: 83488 - Score: 228 ID: 70955 - Score: 515 ID: 80241 - Score: 574 ID: 51883 - Score: 321 ID: 6160 - Score: 438
+28 16
+ID: 78067 - Score: 538 ID: 90587 - Score: 525 ID: 3516 - Score: 235 ID: 31037 - Score: 465 ID: 4431 - Score: 221 ID: 89282 - Score: 506 ID: 97303 - Score: 415 ID: 73030 - Score: 318 ID: 15591 - Score: 302 ID: 95507 - Score: 135 ID: 60398 - Score: 242 ID: 85083 - Score: 120 ID: 4816 - Score: 167 ID: 6372 - Score: 340 ID: 8020 - Score: 183 ID: 93781 - Score: 194
+125 19
+ID: 24555 - Score: 164 ID: 25834 - Score: 90 ID: 98081 - Score: 479 ID: 24320 - Score: 261 ID: 33912 - Score: 287 ID: 17310 - Score: 15 ID: 656 - Score: 312 ID: 11494 - Score: 377 ID: 61022 - Score: 23 ID: 13083 - Score: 207 ID: 42699 - Score: 145 ID: 11431 - Score: 123 ID: 35507 - Score: 368 ID: 45043 - Score: 490 ID: 52647 - Score: 119 ID: 38475 - Score: 78 ID: 36357 - Score: 319 ID: 27867 - Score: 69 ID: 5506 - Score: 443
+1 19
+ID: 32904 - Score: 272 ID: 88985 - Score: 11 ID: 51943 - Score: 266 ID: 50324 - Score: 8 ID: 81515 - Score: 554 ID: 13706 - Score: 10 ID: 94334 - Score: 466 ID: 30294 - Score: 340 ID: 43193 - Score: 110 ID: 89494 - Score: 298 ID: 57868 - Score: 445 ID: 4989 - Score: 95 ID: 54693 - Score: 98 ID: 22277 - Score: 274 ID: 4770 - Score: 199 ID: 75323 - Score: 41 ID: 26185 - Score: 429 ID: 36109 - Score: 545 ID: 64718 - Score: 190
+128 20
+ID: 65396 - Score: 222 ID: 70280 - Score: 423 ID: 64844 - Score: 546 ID: 24791 - Score: 450 ID: 1909 - Score: 222 ID: 97901 - Score: 375 ID: 39851 - Score: 335 ID: 59641 - Score: 358 ID: 76845 - Score: 313 ID: 75475 - Score: 20 ID: 52782 - Score: 314 ID: 3846 - Score: 238 ID: 5254 - Score: 42 ID: 25020 - Score: 51 ID: 61270 - Score: 360 ID: 80845 - Score: 308 ID: 37425 - Score: 231 ID: 23700 - Score: 66 ID: 91524 - Score: 297 ID: 12263 - Score: 281
+162 20
+ID: 71675 - Score: 183 ID: 63258 - Score: 489 ID: 82818 - Score: 249 ID: 89108 - Score: 404 ID: 57419 - Score: 216 ID: 20399 - Score: 361 ID: 68616 - Score: 404 ID: 57452 - Score: 127 ID: 36736 - Score: 226 ID: 79103 - Score: 107 ID: 25561 - Score: 278 ID: 53455 - Score: 169 ID: 63503 - Score: 148 ID: 57980 - Score: 267 ID: 21451 - Score: 483 ID: 77681 - Score: 228 ID: 80156 - Score: 88 ID: 12791 - Score: 193 ID: 3232 - Score: 479 ID: 5420 - Score: 103
+31 14
+ID: 79809 - Score: 350 ID: 93376 - Score: 257 ID: 54387 - Score: 529 ID: 82457 - Score: 167 ID: 62359 - Score: 105 ID: 81525 - Score: 107 ID: 72520 - Score: 406 ID: 41476 - Score: 384 ID: 27105 - Score: 144 ID: 76529 - Score: 477 ID: 17547 - Score: 27 ID: 13425 - Score: 183 ID: 22987 - Score: 576 ID: 51917 - Score: 547
+146 20
+ID: 32080 - Score: 537 ID: 75714 - Score: 100 ID: 73303 - Score: 406 ID: 59044 - Score: 318 ID: 31293 - Score: 83 ID: 25537 - Score: 155 ID: 90250 - Score: 485 ID: 92092 - Score: 139 ID: 14602 - Score: 73 ID: 55777 - Score: 58 ID: 59664 - Score: 342 ID: 88980 - Score: 57 ID: 49939 - Score: 86 ID: 98354 - Score: 498 ID: 73002 - Score: 465 ID: 32433 - Score: 100 ID: 93095 - Score: 551 ID: 78738 - Score: 152 ID: 99600 - Score: 158 ID: 74324 - Score: 20
+97 17
+ID: 99357 - Score: 56 ID: 2920 - Score: 313 ID: 58859 - Score: 355 ID: 27478 - Score: 81 ID: 51506 - Score: 196 ID: 245 - Score: 307 ID: 51358 - Score: 178 ID: 43486 - Score: 350 ID: 47920 - Score: 148 ID: 89792 - Score: 582 ID: 7252 - Score: 50 ID: 23593 - Score: 121 ID: 17919 - Score: 560 ID: 82800 - Score: 74 ID: 68520 - Score: 328 ID: 38272 - Score: 49 ID: 66523 - Score: 92
+180 20
+ID: 84541 - Score: 272 ID: 22770 - Score: 572 ID: 862 - Score: 336 ID: 72660 - Score: 308 ID: 65750 - Score: 170 ID: 53633 - Score: 211 ID: 98128 - Score: 341 ID: 31588 - Score: 169 ID: 3243 - Score: 319 ID: 75870 - Score: 300 ID: 35394 - Score: 71 ID: 56086 - Score: 571 ID: 52970 - Score: 559 ID: 54866 - Score: 39 ID: 79716 - Score: 335 ID: 20863 - Score: 311 ID: 57753 - Score: 196 ID: 97815 - Score: 212 ID: 87213 - Score: 155 ID: 71005 - Score: 547
+160 16
+ID: 91727 - Score: 511 ID: 48510 - Score: 208 ID: 18127 - Score: 483 ID: 3242 - Score: 473 ID: 8044 - Score: 339 ID: 77017 - Score: 385 ID: 25390 - Score: 122 ID: 12217 - Score: 130 ID: 90695 - Score: 475 ID: 41226 - Score: 167 ID: 97339 - Score: 260 ID: 27664 - Score: 371 ID: 51145 - Score: 257 ID: 95331 - Score: 482 ID: 71889 - Score: 488 ID: 11618 - Score: 297
+153 10
+ID: 47900 - Score: 368 ID: 85745 - Score: 486 ID: 14383 - Score: 585 ID: 16176 - Score: 119 ID: 52612 - Score: 319 ID: 87655 - Score: 288 ID: 20927 - Score: 268 ID: 79354 - Score: 560 ID: 52957 - Score: 17 ID: 12029 - Score: 60
+168 13
+ID: 58465 - Score: 259 ID: 2077 - Score: 454 ID: 14881 - Score: 144 ID: 28552 - Score: 171 ID: 92582 - Score: 454 ID: 70949 - Score: 264 ID: 83448 - Score: 266 ID: 63287 - Score: 81 ID: 45973 - Score: 355 ID: 52171 - Score: 294 ID: 36460 - Score: 343 ID: 29298 - Score: 485 ID: 20639 - Score: 546
+56 15
+ID: 73146 - Score: 572 ID: 23611 - Score: 75 ID: 84270 - Score: 218 ID: 80656 - Score: 3 ID: 50165 - Score: 74 ID: 38063 - Score: 262 ID: 10723 - Score: 449 ID: 73709 - Score: 287 ID: 1975 - Score: 537 ID: 28047 - Score: 194 ID: 44576 - Score: 238 ID: 41616 - Score: 256 ID: 5487 - Score: 36 ID: 98966 - Score: 299 ID: 41258 - Score: 16
+152 15
+ID: 54813 - Score: 359 ID: 42955 - Score: 569 ID: 79562 - Score: 326 ID: 52014 - Score: 266 ID: 94552 - Score: 284 ID: 43075 - Score: 208 ID: 99881 - Score: 156 ID: 20883 - Score: 383 ID: 19748 - Score: 512 ID: 97066 - Score: 264 ID: 7397 - Score: 43 ID: 6495 - Score: 109 ID: 53098 - Score: 202 ID: 45217 - Score: 266 ID: 2597 - Score: 208
+177 18
+ID: 35086 - Score: 511 ID: 58466 - Score: 482 ID: 63728 - Score: 199 ID: 56541 - Score: 97 ID: 58838 - Score: 213 ID: 41033 - Score: 187 ID: 68856 - Score: 482 ID: 95196 - Score: 555 ID: 38787 - Score: 257 ID: 32108 - Score: 486 ID: 722 - Score: 64 ID: 859 - Score: 224 ID: 45612 - Score: 77 ID: 56212 - Score: 562 ID: 24856 - Score: 428 ID: 79625 - Score: 494 ID: 74013 - Score: 519 ID: 86060 - Score: 177
+175 14
+ID: 99355 - Score: 269 ID: 36466 - Score: 172 ID: 74652 - Score: 224 ID: 95975 - Score: 41 ID: 91584 - Score: 147 ID: 75429 - Score: 232 ID: 30966 - Score: 100 ID: 4931 - Score: 338 ID: 91350 - Score: 551 ID: 11424 - Score: 376 ID: 62114 - Score: 172 ID: 99140 - Score: 105 ID: 87982 - Score: 234 ID: 77880 - Score: 116
+157 10
+ID: 28513 - Score: 588 ID: 54386 - Score: 226 ID: 54832 - Score: 521 ID: 93822 - Score: 597 ID: 82967 - Score: 369 ID: 50132 - Score: 427 ID: 38214 - Score: 94 ID: 78510 - Score: 106 ID: 37367 - Score: 257 ID: 76461 - Score: 281
+95 16
+ID: 39472 - Score: 229 ID: 7894 - Score: 469 ID: 13609 - Score: 76 ID: 19764 - Score: 259 ID: 12691 - Score: 336 ID: 73754 - Score: 440 ID: 40182 - Score: 401 ID: 28427 - Score: 12 ID: 60413 - Score: 223 ID: 82406 - Score: 30 ID: 18287 - Score: 300 ID: 56045 - Score: 227 ID: 8874 - Score: 570 ID: 33411 - Score: 203 ID: 50831 - Score: 1 ID: 58970 - Score: 99
+9 19
+ID: 31528 - Score: 544 ID: 15538 - Score: 278 ID: 72742 - Score: 24 ID: 83907 - Score: 566 ID: 67053 - Score: 483 ID: 64402 - Score: 388 ID: 32264 - Score: 79 ID: 73654 - Score: 257 ID: 91115 - Score: 206 ID: 35949 - Score: 535 ID: 51373 - Score: 252 ID: 18888 - Score: 82 ID: 21205 - Score: 296 ID: 38744 - Score: 442 ID: 95375 - Score: 375 ID: 75171 - Score: 426 ID: 23584 - Score: 399 ID: 90178 - Score: 404 ID: 83380 - Score: 382
+71 11
+ID: 70663 - Score: 517 ID: 6349 - Score: 324 ID: 74881 - Score: 398 ID: 65594 - Score: 218 ID: 75600 - Score: 204 ID: 40430 - Score: 43 ID: 48167 - Score: 297 ID: 62816 - Score: 101 ID: 39726 - Score: 215 ID: 85486 - Score: 415 ID: 75318 - Score: 32
+186 16
+ID: 21969 - Score: 335 ID: 23306 - Score: 416 ID: 88442 - Score: 200 ID: 85818 - Score: 225 ID: 58615 - Score: 188 ID: 8967 - Score: 44 ID: 62546 - Score: 262 ID: 94298 - Score: 121 ID: 35534 - Score: 98 ID: 38500 - Score: 502 ID: 20557 - Score: 555 ID: 71948 - Score: 377 ID: 59043 - Score: 136 ID: 9144 - Score: 434 ID: 95871 - Score: 513 ID: 9510 - Score: 248
+184 19
+ID: 31799 - Score: 312 ID: 66491 - Score: 360 ID: 34924 - Score: 220 ID: 19888 - Score: 45 ID: 71043 - Score: 263 ID: 69535 - Score: 514 ID: 21874 - Score: 141 ID: 33542 - Score: 600 ID: 30330 - Score: 508 ID: 29786 - Score: 343 ID: 33259 - Score: 330 ID: 41179 - Score: 424 ID: 98043 - Score: 94 ID: 40236 - Score: 31 ID: 33146 - Score: 68 ID: 80850 - Score: 588 ID: 56326 - Score: 300 ID: 64993 - Score: 542 ID: 87278 - Score: 117
+148 20
+ID: 29002 - Score: 134 ID: 19015 - Score: 228 ID: 36932 - Score: 87 ID: 74244 - Score: 584 ID: 80395 - Score: 432 ID: 58781 - Score: 258 ID: 24662 - Score: 105 ID: 31811 - Score: 133 ID: 62178 - Score: 334 ID: 27152 - Score: 142 ID: 73136 - Score: 544 ID: 54912 - Score: 404 ID: 95553 - Score: 83 ID: 38119 - Score: 483 ID: 48041 - Score: 196 ID: 78251 - Score: 225 ID: 87691 - Score: 541 ID: 39506 - Score: 209 ID: 1799 - Score: 469 ID: 20919 - Score: 292
+137 10
+ID: 49521 - Score: 493 ID: 45131 - Score: 544 ID: 4851 - Score: 249 ID: 57414 - Score: 560 ID: 50676 - Score: 209 ID: 5902 - Score: 6 ID: 34194 - Score: 529 ID: 98244 - Score: 107 ID: 32272 - Score: 337 ID: 98310 - Score: 581
+161 14
+ID: 79211 - Score: 76 ID: 96465 - Score: 534 ID: 46570 - Score: 36 ID: 98195 - Score: 485 ID: 81376 - Score: 466 ID: 45777 - Score: 553 ID: 58092 - Score: 49 ID: 47263 - Score: 86 ID: 7448 - Score: 188 ID: 94943 - Score: 289 ID: 45419 - Score: 219 ID: 49448 - Score: 301 ID: 51466 - Score: 150 ID: 45963 - Score: 72
+190 16
+ID: 13152 - Score: 446 ID: 31629 - Score: 177 ID: 47240 - Score: 167 ID: 8471 - Score: 453 ID: 38946 - Score: 4 ID: 74195 - Score: 583 ID: 385 - Score: 556 ID: 467 - Score: 24 ID: 47540 - Score: 387 ID: 22827 - Score: 472 ID: 92682 - Score: 394 ID: 79368 - Score: 82 ID: 40913 - Score: 545 ID: 43926 - Score: 476 ID: 72815 - Score: 130 ID: 892 - Score: 41
+59 11
+ID: 31042 - Score: 522 ID: 67259 - Score: 96 ID: 92948 - Score: 265 ID: 87610 - Score: 243 ID: 25403 - Score: 350 ID: 50747 - Score: 254 ID: 93898 - Score: 129 ID: 31296 - Score: 189 ID: 31352 - Score: 212 ID: 26167 - Score: 509 ID: 11293 - Score: 438
+141 10
+ID: 37098 - Score: 554 ID: 21027 - Score: 84 ID: 42032 - Score: 431 ID: 61373 - Score: 573 ID: 1616 - Score: 249 ID: 27534 - Score: 234 ID: 84401 - Score: 340 ID: 33554 - Score: 428 ID: 52135 - Score: 522 ID: 11061 - Score: 298
+79 13
+ID: 9743 - Score: 212 ID: 17409 - Score: 74 ID: 34003 - Score: 127 ID: 92238 - Score: 26 ID: 3069 - Score: 162 ID: 5547 - Score: 579 ID: 40712 - Score: 571 ID: 95827 - Score: 326 ID: 81522 - Score: 284 ID: 20294 - Score: 442 ID: 75224 - Score: 504 ID: 68010 - Score: 276 ID: 15601 - Score: 345
+7 20
+ID: 70688 - Score: 54 ID: 79184 - Score: 281 ID: 50744 - Score: 150 ID: 40419 - Score: 575 ID: 32082 - Score: 275 ID: 37266 - Score: 102 ID: 95812 - Score: 495 ID: 21142 - Score: 139 ID: 71696 - Score: 317 ID: 37050 - Score: 243 ID: 22656 - Score: 554 ID: 63360 - Score: 184 ID: 87022 - Score: 270 ID: 12603 - Score: 208 ID: 47086 - Score: 352 ID: 37092 - Score: 466 ID: 27984 - Score: 119 ID: 17095 - Score: 275 ID: 84296 - Score: 169 ID: 90821 - Score: 541
+111 14
+ID: 8792 - Score: 77 ID: 38153 - Score: 511 ID: 1692 - Score: 542 ID: 97759 - Score: 28 ID: 55457 - Score: 503 ID: 45472 - Score: 135 ID: 79430 - Score: 148 ID: 61427 - Score: 232 ID: 20320 - Score: 481 ID: 40466 - Score: 149 ID: 1559 - Score: 181 ID: 15253 - Score: 278 ID: 78382 - Score: 73 ID: 70445 - Score: 555
+18 14
+ID: 29586 - Score: 96 ID: 74997 - Score: 80 ID: 64396 - Score: 354 ID: 98878 - Score: 436 ID: 73308 - Score: 212 ID: 56601 - Score: 271 ID: 75224 - Score: 504 ID: 55842 - Score: 259 ID: 52395 - Score: 517 ID: 69057 - Score: 185 ID: 74125 - Score: 38 ID: 35169 - Score: 496 ID: 52255 - Score: 298 ID: 80302 - Score: 369
+88 20
+ID: 26920 - Score: 389 ID: 64710 - Score: 444 ID: 42841 - Score: 158 ID: 85299 - Score: 94 ID: 92257 - Score: 597 ID: 83567 - Score: 434 ID: 28074 - Score: 192 ID: 9925 - Score: 536 ID: 87879 - Score: 244 ID: 30039 - Score: 268 ID: 16004 - Score: 52 ID: 96717 - Score: 20 ID: 8235 - Score: 137 ID: 95943 - Score: 236 ID: 83687 - Score: 63 ID: 13921 - Score: 344 ID: 2478 - Score: 412 ID: 15842 - Score: 190 ID: 16584 - Score: 283 ID: 71517 - Score: 512
+21 11
+ID: 90246 - Score: 189 ID: 64318 - Score: 290 ID: 35891 - Score: 363 ID: 26628 - Score: 557 ID: 47189 - Score: 334 ID: 12190 - Score: 556 ID: 68435 - Score: 63 ID: 81905 - Score: 18 ID: 12966 - Score: 136 ID: 49514 - Score: 330 ID: 3458 - Score: 241
+129 20
+ID: 72054 - Score: 154 ID: 36695 - Score: 112 ID: 41535 - Score: 376 ID: 46338 - Score: 386 ID: 1657 - Score: 208 ID: 60713 - Score: 127 ID: 354 - Score: 185 ID: 37171 - Score: 130 ID: 38127 - Score: 511 ID: 21181 - Score: 9 ID: 57394 - Score: 132 ID: 25020 - Score: 51 ID: 79097 - Score: 154 ID: 80185 - Score: 436 ID: 3088 - Score: 372 ID: 72361 - Score: 84 ID: 6860 - Score: 375 ID: 33848 - Score: 189 ID: 99552 - Score: 134 ID: 64007 - Score: 232
+14 16
+ID: 86966 - Score: 255 ID: 46235 - Score: 40 ID: 57106 - Score: 525 ID: 55357 - Score: 48 ID: 70476 - Score: 102 ID: 27676 - Score: 392 ID: 42278 - Score: 49 ID: 29824 - Score: 224 ID: 92796 - Score: 516 ID: 24976 - Score: 134 ID: 79169 - Score: 346 ID: 10793 - Score: 126 ID: 36842 - Score: 340 ID: 33620 - Score: 86 ID: 7166 - Score: 374 ID: 12947 - Score: 109
+170 14
+ID: 74964 - Score: 563 ID: 24541 - Score: 499 ID: 80726 - Score: 334 ID: 258 - Score: 24 ID: 41142 - Score: 258 ID: 86734 - Score: 329 ID: 51364 - Score: 328 ID: 31028 - Score: 205 ID: 38329 - Score: 1 ID: 91849 - Score: 450 ID: 66916 - Score: 544 ID: 22060 - Score: 142 ID: 57246 - Score: 450 ID: 83588 - Score: 214
+99 19
+ID: 89918 - Score: 555 ID: 67664 - Score: 72 ID: 81800 - Score: 1 ID: 29369 - Score: 404 ID: 72002 - Score: 396 ID: 25149 - Score: 287 ID: 26327 - Score: 168 ID: 44803 - Score: 101 ID: 3811 - Score: 150 ID: 13297 - Score: 528 ID: 86942 - Score: 182 ID: 82110 - Score: 138 ID: 50722 - Score: 451 ID: 60018 - Score: 270 ID: 3713 - Score: 500 ID: 31486 - Score: 188 ID: 95493 - Score: 262 ID: 18402 - Score: 29 ID: 26285 - Score: 111
+183 17
+ID: 13504 - Score: 137 ID: 12614 - Score: 568 ID: 95173 - Score: 158 ID: 57239 - Score: 432 ID: 43021 - Score: 589 ID: 65872 - Score: 71 ID: 58566 - Score: 512 ID: 21933 - Score: 535 ID: 49796 - Score: 285 ID: 22382 - Score: 446 ID: 11152 - Score: 456 ID: 11397 - Score: 593 ID: 83777 - Score: 274 ID: 69806 - Score: 151 ID: 16414 - Score: 6 ID: 88463 - Score: 449 ID: 24770 - Score: 58
+37 15
+ID: 72136 - Score: 432 ID: 47505 - Score: 57 ID: 48474 - Score: 509 ID: 23993 - Score: 298 ID: 45921 - Score: 325 ID: 75287 - Score: 542 ID: 87774 - Score: 600 ID: 56840 - Score: 256 ID: 49544 - Score: 272 ID: 72497 - Score: 435 ID: 27304 - Score: 23 ID: 5214 - Score: 313 ID: 84584 - Score: 60 ID: 51214 - Score: 430 ID: 35308 - Score: 383
+27 11
+ID: 47183 - Score: 376 ID: 4210 - Score: 424 ID: 62977 - Score: 223 ID: 16616 - Score: 167 ID: 68826 - Score: 27 ID: 28774 - Score: 147 ID: 26450 - Score: 323 ID: 31660 - Score: 235 ID: 60124 - Score: 529 ID: 6037 - Score: 536 ID: 60997 - Score: 431
+2 18
+ID: 70281 - Score: 389 ID: 16023 - Score: 589 ID: 81548 - Score: 452 ID: 99122 - Score: 404 ID: 9041 - Score: 169 ID: 88815 - Score: 350 ID: 86566 - Score: 331 ID: 11192 - Score: 520 ID: 96619 - Score: 572 ID: 95109 - Score: 128 ID: 35387 - Score: 588 ID: 85500 - Score: 412 ID: 59105 - Score: 8 ID: 2833 - Score: 336 ID: 81874 - Score: 85 ID: 70856 - Score: 175 ID: 7100 - Score: 585 ID: 29805 - Score: 210
+135 11
+ID: 62166 - Score: 228 ID: 3207 - Score: 151 ID: 10386 - Score: 325 ID: 92939 - Score: 81 ID: 30895 - Score: 256 ID: 59512 - Score: 268 ID: 35987 - Score: 273 ID: 29083 - Score: 84 ID: 5639 - Score: 391 ID: 60779 - Score: 175 ID: 54535 - Score: 49
+47 14
+ID: 75264 - Score: 72 ID: 27863 - Score: 255 ID: 40678 - Score: 597 ID: 98468 - Score: 461 ID: 73541 - Score: 584 ID: 82166 - Score: 280 ID: 37406 - Score: 381 ID: 20888 - Score: 8 ID: 13740 - Score: 573 ID: 2269 - Score: 257 ID: 31594 - Score: 473 ID: 88949 - Score: 300 ID: 13417 - Score: 511 ID: 56843 - Score: 588
+158 20
+ID: 59124 - Score: 587 ID: 41869 - Score: 502 ID: 76297 - Score: 396 ID: 9689 - Score: 83 ID: 54957 - Score: 479 ID: 93386 - Score: 46 ID: 46500 - Score: 401 ID: 29961 - Score: 388 ID: 40916 - Score: 355 ID: 80158 - Score: 91 ID: 40091 - Score: 549 ID: 18337 - Score: 255 ID: 37704 - Score: 88 ID: 51773 - Score: 282 ID: 59994 - Score: 51 ID: 24685 - Score: 265 ID: 18840 - Score: 292 ID: 56358 - Score: 572 ID: 7136 - Score: 214 ID: 74345 - Score: 338
+49 16
+ID: 3282 - Score: 135 ID: 70836 - Score: 52 ID: 54114 - Score: 94 ID: 26899 - Score: 384 ID: 50600 - Score: 358 ID: 11201 - Score: 120 ID: 79071 - Score: 259 ID: 91945 - Score: 40 ID: 88974 - Score: 403 ID: 81299 - Score: 3 ID: 26234 - Score: 14 ID: 99402 - Score: 343 ID: 35301 - Score: 141 ID: 85191 - Score: 117 ID: 88738 - Score: 112 ID: 40180 - Score: 475
+41 14
+ID: 12876 - Score: 165 ID: 86914 - Score: 499 ID: 55220 - Score: 384 ID: 3373 - Score: 472 ID: 48005 - Score: 79 ID: 23935 - Score: 477 ID: 48148 - Score: 339 ID: 94664 - Score: 462 ID: 81687 - Score: 253 ID: 7546 - Score: 276 ID: 98655 - Score: 158 ID: 14650 - Score: 423 ID: 45821 - Score: 378 ID: 96798 - Score: 597
+48 13
+ID: 60186 - Score: 406 ID: 67080 - Score: 281 ID: 18532 - Score: 346 ID: 54540 - Score: 198 ID: 23765 - Score: 599 ID: 25194 - Score: 504 ID: 97064 - Score: 95 ID: 58936 - Score: 69 ID: 20457 - Score: 277 ID: 83383 - Score: 450 ID: 22992 - Score: 579 ID: 35013 - Score: 494 ID: 36919 - Score: 474
+172 10
+ID: 9363 - Score: 506 ID: 42999 - Score: 145 ID: 40484 - Score: 30 ID: 27524 - Score: 373 ID: 70045 - Score: 224 ID: 31032 - Score: 365 ID: 94827 - Score: 35 ID: 78037 - Score: 398 ID: 30433 - Score: 486 ID: 59860 - Score: 130
+77 16
+ID: 56177 - Score: 232 ID: 69743 - Score: 545 ID: 96432 - Score: 194 ID: 26220 - Score: 315 ID: 3940 - Score: 505 ID: 95141 - Score: 294 ID: 94272 - Score: 392 ID: 45201 - Score: 409 ID: 79616 - Score: 551 ID: 81909 - Score: 76 ID: 65743 - Score: 114 ID: 11920 - Score: 35 ID: 70261 - Score: 151 ID: 11143 - Score: 48 ID: 44790 - Score: 452 ID: 73982 - Score: 547
+120 13
+ID: 27146 - Score: 119 ID: 66258 - Score: 179 ID: 91445 - Score: 529 ID: 56191 - Score: 313 ID: 87492 - Score: 16 ID: 49381 - Score: 30 ID: 86511 - Score: 529 ID: 65040 - Score: 469 ID: 12429 - Score: 275 ID: 75512 - Score: 313 ID: 75355 - Score: 146 ID: 75472 - Score: 111 ID: 49199 - Score: 577
+127 17
+ID: 77830 - Score: 195 ID: 18172 - Score: 256 ID: 9848 - Score: 235 ID: 58210 - Score: 596 ID: 18764 - Score: 202 ID: 20962 - Score: 316 ID: 39249 - Score: 324 ID: 59620 - Score: 458 ID: 38323 - Score: 219 ID: 94790 - Score: 490 ID: 38728 - Score: 393 ID: 53975 - Score: 78 ID: 61255 - Score: 195 ID: 10965 - Score: 597 ID: 57584 - Score: 210 ID: 11703 - Score: 14 ID: 36716 - Score: 18
+17 11
+ID: 29228 - Score: 334 ID: 51970 - Score: 52 ID: 45853 - Score: 457 ID: 260 - Score: 245 ID: 25571 - Score: 212 ID: 44591 - Score: 76 ID: 72496 - Score: 19 ID: 16957 - Score: 423 ID: 96442 - Score: 593 ID: 55850 - Score: 323 ID: 7594 - Score: 62
+163 11
+ID: 49186 - Score: 244 ID: 16713 - Score: 466 ID: 4420 - Score: 399 ID: 36018 - Score: 490 ID: 10060 - Score: 8 ID: 66424 - Score: 325 ID: 43547 - Score: 504 ID: 18620 - Score: 141 ID: 27393 - Score: 76 ID: 56471 - Score: 31 ID: 99041 - Score: 519
+83 15
+ID: 31628 - Score: 523 ID: 96069 - Score: 512 ID: 68141 - Score: 340 ID: 83179 - Score: 249 ID: 85294 - Score: 124 ID: 43912 - Score: 277 ID: 80483 - Score: 21 ID: 28287 - Score: 572 ID: 65409 - Score: 348 ID: 73003 - Score: 346 ID: 72666 - Score: 435 ID: 41578 - Score: 463 ID: 17989 - Score: 3 ID: 13463 - Score: 365 ID: 20825 - Score: 2
+34 15
+ID: 97750 - Score: 25 ID: 22903 - Score: 36 ID: 78776 - Score: 132 ID: 27800 - Score: 133 ID: 89682 - Score: 511 ID: 83619 - Score: 17 ID: 34868 - Score: 307 ID: 37051 - Score: 254 ID: 58167 - Score: 359 ID: 95869 - Score: 42 ID: 66243 - Score: 45 ID: 94768 - Score: 155 ID: 54026 - Score: 270 ID: 88521 - Score: 231 ID: 6351 - Score: 254
+46 12
+ID: 70560 - Score: 241 ID: 49565 - Score: 237 ID: 2364 - Score: 156 ID: 17495 - Score: 406 ID: 86148 - Score: 287 ID: 91066 - Score: 129 ID: 74102 - Score: 47 ID: 32725 - Score: 193 ID: 96398 - Score: 75 ID: 10254 - Score: 24 ID: 1130 - Score: 218 ID: 60840 - Score: 401
+98 19
+ID: 12862 - Score: 537 ID: 73377 - Score: 323 ID: 6296 - Score: 306 ID: 46925 - Score: 61 ID: 74203 - Score: 515 ID: 3001 - Score: 528 ID: 13795 - Score: 79 ID: 26827 - Score: 544 ID: 6464 - Score: 20 ID: 4622 - Score: 3 ID: 55650 - Score: 367 ID: 42700 - Score: 441 ID: 63141 - Score: 489 ID: 91507 - Score: 57 ID: 72853 - Score: 19 ID: 13143 - Score: 34 ID: 96616 - Score: 74 ID: 70163 - Score: 41 ID: 64688 - Score: 96
+117 12
+ID: 77334 - Score: 315 ID: 1511 - Score: 264 ID: 84600 - Score: 113 ID: 650 - Score: 371 ID: 77801 - Score: 535 ID: 70006 - Score: 68 ID: 5922 - Score: 455 ID: 60073 - Score: 96 ID: 77041 - Score: 387 ID: 25033 - Score: 409 ID: 47988 - Score: 467 ID: 67040 - Score: 226
+54 16
+ID: 52778 - Score: 476 ID: 24468 - Score: 239 ID: 42403 - Score: 478 ID: 13920 - Score: 580 ID: 49211 - Score: 270 ID: 16396 - Score: 316 ID: 30585 - Score: 188 ID: 1443 - Score: 470 ID: 67037 - Score: 600 ID: 72890 - Score: 479 ID: 81349 - Score: 324 ID: 25896 - Score: 585 ID: 50638 - Score: 416 ID: 66803 - Score: 512 ID: 97254 - Score: 346 ID: 84312 - Score: 598
+11 18
+ID: 74826 - Score: 545 ID: 51837 - Score: 136 ID: 97198 - Score: 388 ID: 38257 - Score: 78 ID: 82602 - Score: 292 ID: 27005 - Score: 328 ID: 77382 - Score: 454 ID: 46556 - Score: 162 ID: 87231 - Score: 153 ID: 4869 - Score: 451 ID: 8607 - Score: 248 ID: 67649 - Score: 345 ID: 73881 - Score: 12 ID: 29132 - Score: 583 ID: 83794 - Score: 228 ID: 58221 - Score: 485 ID: 70210 - Score: 66 ID: 36879 - Score: 389
+164 20
+ID: 55460 - Score: 171 ID: 26042 - Score: 398 ID: 42814 - Score: 57 ID: 705 - Score: 161 ID: 45825 - Score: 503 ID: 72856 - Score: 598 ID: 72740 - Score: 144 ID: 16202 - Score: 562 ID: 17900 - Score: 121 ID: 62079 - Score: 431 ID: 3057 - Score: 482 ID: 26313 - Score: 294 ID: 78121 - Score: 227 ID: 50070 - Score: 394 ID: 2822 - Score: 81 ID: 2451 - Score: 207 ID: 57605 - Score: 131 ID: 34476 - Score: 177 ID: 53669 - Score: 361 ID: 2908 - Score: 71
+104 18
+ID: 57272 - Score: 168 ID: 71482 - Score: 185 ID: 4844 - Score: 570 ID: 8094 - Score: 456 ID: 99872 - Score: 286 ID: 91304 - Score: 477 ID: 22166 - Score: 339 ID: 44000 - Score: 374 ID: 465 - Score: 228 ID: 40195 - Score: 232 ID: 8280 - Score: 335 ID: 25835 - Score: 597 ID: 25130 - Score: 192 ID: 10565 - Score: 523 ID: 29800 - Score: 360 ID: 34586 - Score: 390 ID: 33150 - Score: 329 ID: 1385 - Score: 230
+51 15
+ID: 41132 - Score: 503 ID: 1232 - Score: 400 ID: 86536 - Score: 589 ID: 24139 - Score: 53 ID: 7612 - Score: 245 ID: 30233 - Score: 406 ID: 56863 - Score: 123 ID: 44207 - Score: 557 ID: 29380 - Score: 209 ID: 84968 - Score: 421 ID: 80425 - Score: 308 ID: 45737 - Score: 8 ID: 21756 - Score: 245 ID: 46326 - Score: 514 ID: 94821 - Score: 409
+26 11
+ID: 18513 - Score: 600 ID: 36834 - Score: 399 ID: 55793 - Score: 317 ID: 31193 - Score: 483 ID: 33647 - Score: 163 ID: 57812 - Score: 470 ID: 79353 - Score: 372 ID: 38644 - Score: 298 ID: 89591 - Score: 441 ID: 21296 - Score: 171 ID: 28825 - Score: 460
+179 13
+ID: 21760 - Score: 542 ID: 2129 - Score: 399 ID: 34322 - Score: 498 ID: 61334 - Score: 512 ID: 90244 - Score: 141 ID: 19539 - Score: 226 ID: 98043 - Score: 94 ID: 47874 - Score: 121 ID: 58435 - Score: 315 ID: 72636 - Score: 496 ID: 83024 - Score: 56 ID: 19312 - Score: 250 ID: 26311 - Score: 89
+61 16
+ID: 74641 - Score: 235 ID: 26630 - Score: 475 ID: 22628 - Score: 493 ID: 10448 - Score: 555 ID: 81777 - Score: 271 ID: 78493 - Score: 274 ID: 30734 - Score: 515 ID: 91850 - Score: 365 ID: 270 - Score: 405 ID: 38128 - Score: 77 ID: 4280 - Score: 340 ID: 26401 - Score: 590 ID: 99911 - Score: 254 ID: 83635 - Score: 585 ID: 91434 - Score: 353 ID: 17897 - Score: 542
+81 12
+ID: 62136 - Score: 193 ID: 50891 - Score: 158 ID: 84897 - Score: 126 ID: 36541 - Score: 290 ID: 31915 - Score: 356 ID: 40496 - Score: 547 ID: 10508 - Score: 110 ID: 44840 - Score: 65 ID: 50496 - Score: 504 ID: 83633 - Score: 141 ID: 46586 - Score: 427 ID: 13133 - Score: 84
+20 18
+ID: 56269 - Score: 1 ID: 21904 - Score: 73 ID: 17453 - Score: 341 ID: 46404 - Score: 227 ID: 70902 - Score: 205 ID: 60514 - Score: 305 ID: 54112 - Score: 66 ID: 92494 - Score: 362 ID: 88220 - Score: 470 ID: 37314 - Score: 416 ID: 99671 - Score: 9 ID: 83263 - Score: 282 ID: 82710 - Score: 422 ID: 79689 - Score: 580 ID: 45286 - Score: 490 ID: 54544 - Score: 451 ID: 68344 - Score: 31 ID: 6642 - Score: 254
+58 15
+ID: 94469 - Score: 530 ID: 45516 - Score: 47 ID: 26116 - Score: 35 ID: 29746 - Score: 535 ID: 73007 - Score: 585 ID: 54095 - Score: 400 ID: 38991 - Score: 498 ID: 76612 - Score: 343 ID: 44540 - Score: 313 ID: 17962 - Score: 237 ID: 4043 - Score: 392 ID: 86222 - Score: 115 ID: 82981 - Score: 260 ID: 20337 - Score: 532 ID: 92131 - Score: 404
+191 12
+ID: 96170 - Score: 117 ID: 81370 - Score: 340 ID: 9025 - Score: 430 ID: 18918 - Score: 356 ID: 90844 - Score: 98 ID: 68432 - Score: 481 ID: 51104 - Score: 490 ID: 29405 - Score: 1 ID: 13430 - Score: 261 ID: 6969 - Score: 184 ID: 65917 - Score: 318 ID: 20994 - Score: 426
+132 16
+ID: 48109 - Score: 517 ID: 31805 - Score: 300 ID: 28635 - Score: 286 ID: 92316 - Score: 524 ID: 79832 - Score: 75 ID: 45033 - Score: 180 ID: 92123 - Score: 364 ID: 18120 - Score: 115 ID: 56677 - Score: 554 ID: 93114 - Score: 192 ID: 56716 - Score: 578 ID: 74613 - Score: 296 ID: 29668 - Score: 65 ID: 92607 - Score: 478 ID: 18058 - Score: 389 ID: 10227 - Score: 414
+121 13
+ID: 49864 - Score: 25 ID: 70547 - Score: 254 ID: 11099 - Score: 532 ID: 82704 - Score: 36 ID: 74932 - Score: 337 ID: 7974 - Score: 524 ID: 55971 - Score: 344 ID: 33377 - Score: 249 ID: 94287 - Score: 419 ID: 43329 - Score: 378 ID: 10942 - Score: 241 ID: 51179 - Score: 479 ID: 19182 - Score: 536
+349 20
+ID: 73350 - Score: 111 ID: 55168 - Score: 511 ID: 39545 - Score: 174 ID: 99807 - Score: 79 ID: 59352 - Score: 118 ID: 71808 - Score: 423 ID: 97265 - Score: 262 ID: 87536 - Score: 336 ID: 45706 - Score: 519 ID: 34171 - Score: 63 ID: 92378 - Score: 528 ID: 10212 - Score: 515 ID: 18167 - Score: 320 ID: 20469 - Score: 367 ID: 93253 - Score: 174 ID: 56492 - Score: 426 ID: 49971 - Score: 519 ID: 83215 - Score: 600 ID: 64201 - Score: 593 ID: 17897 - Score: 542
+118 12
+ID: 64898 - Score: 593 ID: 35787 - Score: 436 ID: 68736 - Score: 328 ID: 10454 - Score: 25 ID: 12280 - Score: 173 ID: 82617 - Score: 22 ID: 38829 - Score: 596 ID: 53367 - Score: 240 ID: 37300 - Score: 71 ID: 25685 - Score: 385 ID: 11010 - Score: 457 ID: 30661 - Score: 387
+53 11
+ID: 70968 - Score: 345 ID: 56156 - Score: 292 ID: 2478 - Score: 412 ID: 1061 - Score: 356 ID: 27198 - Score: 265 ID: 19871 - Score: 572 ID: 61098 - Score: 281 ID: 45897 - Score: 499 ID: 60488 - Score: 403 ID: 67042 - Score: 333 ID: 42293 - Score: 280
+114 19
+ID: 92495 - Score: 182 ID: 90368 - Score: 119 ID: 54042 - Score: 224 ID: 95957 - Score: 261 ID: 55582 - Score: 466 ID: 74510 - Score: 222 ID: 41848 - Score: 88 ID: 83346 - Score: 496 ID: 32683 - Score: 481 ID: 7639 - Score: 166 ID: 88592 - Score: 18 ID: 14111 - Score: 459 ID: 50222 - Score: 154 ID: 88823 - Score: 368 ID: 29038 - Score: 457 ID: 59624 - Score: 450 ID: 14525 - Score: 338 ID: 98444 - Score: 255 ID: 8251 - Score: 513
+220 19
+ID: 90127 - Score: 204 ID: 58268 - Score: 520 ID: 79410 - Score: 171 ID: 92984 - Score: 208 ID: 27476 - Score: 41 ID: 53737 - Score: 461 ID: 15813 - Score: 432 ID: 17440 - Score: 228 ID: 16920 - Score: 359 ID: 18369 - Score: 29 ID: 19587 - Score: 328 ID: 51537 - Score: 295 ID: 80199 - Score: 567 ID: 42679 - Score: 412 ID: 37332 - Score: 489 ID: 33342 - Score: 34 ID: 813 - Score: 240 ID: 69313 - Score: 479 ID: 48577 - Score: 188
+24 20
+ID: 46348 - Score: 6 ID: 480 - Score: 107 ID: 62132 - Score: 146 ID: 68370 - Score: 328 ID: 1864 - Score: 528 ID: 79114 - Score: 548 ID: 37301 - Score: 195 ID: 88984 - Score: 345 ID: 51615 - Score: 577 ID: 44558 - Score: 396 ID: 46741 - Score: 233 ID: 17724 - Score: 521 ID: 38835 - Score: 476 ID: 90615 - Score: 329 ID: 33209 - Score: 227 ID: 47774 - Score: 458 ID: 29104 - Score: 275 ID: 77741 - Score: 19 ID: 264 - Score: 565 ID: 67938 - Score: 315
+166 14
+ID: 89617 - Score: 153 ID: 96961 - Score: 210 ID: 41074 - Score: 174 ID: 40694 - Score: 433 ID: 48163 - Score: 213 ID: 94813 - Score: 192 ID: 13328 - Score: 242 ID: 8073 - Score: 240 ID: 91924 - Score: 305 ID: 87242 - Score: 522 ID: 45485 - Score: 300 ID: 80126 - Score: 39 ID: 99042 - Score: 338 ID: 56389 - Score: 343
+85 16
+ID: 92115 - Score: 214 ID: 83166 - Score: 499 ID: 59997 - Score: 20 ID: 19037 - Score: 566 ID: 89512 - Score: 339 ID: 77360 - Score: 244 ID: 6616 - Score: 562 ID: 64587 - Score: 392 ID: 15863 - Score: 25 ID: 94608 - Score: 207 ID: 31742 - Score: 167 ID: 88729 - Score: 218 ID: 53643 - Score: 74 ID: 53981 - Score: 80 ID: 86169 - Score: 489 ID: 70641 - Score: 136
+93 13
+ID: 99230 - Score: 218 ID: 35757 - Score: 268 ID: 75812 - Score: 24 ID: 24351 - Score: 332 ID: 65081 - Score: 104 ID: 4096 - Score: 372 ID: 27779 - Score: 179 ID: 75406 - Score: 264 ID: 84902 - Score: 535 ID: 96941 - Score: 46 ID: 28596 - Score: 464 ID: 15573 - Score: 289 ID: 66888 - Score: 514
+140 15
+ID: 63228 - Score: 77 ID: 15021 - Score: 411 ID: 10582 - Score: 346 ID: 70493 - Score: 285 ID: 49928 - Score: 197 ID: 89909 - Score: 97 ID: 38510 - Score: 294 ID: 69001 - Score: 330 ID: 2293 - Score: 18 ID: 52687 - Score: 213 ID: 48853 - Score: 265 ID: 52046 - Score: 228 ID: 81310 - Score: 571 ID: 38144 - Score: 480 ID: 81907 - Score: 166
+149 16
+ID: 18366 - Score: 313 ID: 33639 - Score: 217 ID: 21703 - Score: 242 ID: 23806 - Score: 115 ID: 99669 - Score: 346 ID: 92056 - Score: 515 ID: 4532 - Score: 544 ID: 37295 - Score: 49 ID: 91683 - Score: 292 ID: 165 - Score: 232 ID: 13717 - Score: 593 ID: 59973 - Score: 281 ID: 72293 - Score: 91 ID: 70882 - Score: 575 ID: 95315 - Score: 415 ID: 98219 - Score: 386
+205 18
+ID: 66489 - Score: 511 ID: 22789 - Score: 180 ID: 85922 - Score: 41 ID: 38482 - Score: 532 ID: 54398 - Score: 83 ID: 89409 - Score: 409 ID: 67607 - Score: 362 ID: 28752 - Score: 238 ID: 35266 - Score: 403 ID: 36301 - Score: 367 ID: 8895 - Score: 59 ID: 81965 - Score: 72 ID: 59987 - Score: 557 ID: 64997 - Score: 346 ID: 48013 - Score: 576 ID: 17610 - Score: 424 ID: 15899 - Score: 159 ID: 5036 - Score: 332
+42 15
+ID: 5504 - Score: 510 ID: 8725 - Score: 198 ID: 64401 - Score: 211 ID: 29654 - Score: 134 ID: 37126 - Score: 490 ID: 83940 - Score: 224 ID: 65467 - Score: 35 ID: 89954 - Score: 598 ID: 27005 - Score: 328 ID: 72038 - Score: 139 ID: 4919 - Score: 70 ID: 10211 - Score: 133 ID: 93173 - Score: 301 ID: 75467 - Score: 550 ID: 75269 - Score: 574
+112 14
+ID: 80573 - Score: 34 ID: 72141 - Score: 393 ID: 17832 - Score: 99 ID: 91132 - Score: 399 ID: 70867 - Score: 207 ID: 77268 - Score: 252 ID: 44301 - Score: 316 ID: 57312 - Score: 468 ID: 11114 - Score: 102 ID: 41284 - Score: 381 ID: 52160 - Score: 157 ID: 80378 - Score: 442 ID: 41452 - Score: 267 ID: 63369 - Score: 503
+147 19
+ID: 88118 - Score: 9 ID: 14550 - Score: 337 ID: 22178 - Score: 208 ID: 10586 - Score: 182 ID: 37898 - Score: 554 ID: 55169 - Score: 521 ID: 52718 - Score: 326 ID: 85475 - Score: 556 ID: 35845 - Score: 65 ID: 19749 - Score: 228 ID: 77014 - Score: 422 ID: 63425 - Score: 317 ID: 94927 - Score: 220 ID: 53926 - Score: 395 ID: 37483 - Score: 400 ID: 73296 - Score: 311 ID: 25669 - Score: 549 ID: 37740 - Score: 364 ID: 68662 - Score: 74
+107 14
+ID: 11429 - Score: 325 ID: 61850 - Score: 50 ID: 82899 - Score: 300 ID: 33607 - Score: 291 ID: 92509 - Score: 385 ID: 52031 - Score: 382 ID: 321 - Score: 530 ID: 18315 - Score: 341 ID: 50847 - Score: 126 ID: 13672 - Score: 487 ID: 2626 - Score: 242 ID: 11806 - Score: 17 ID: 48205 - Score: 533 ID: 79550 - Score: 544
+91 12
+ID: 45233 - Score: 16 ID: 71046 - Score: 235 ID: 64959 - Score: 435 ID: 70086 - Score: 282 ID: 94831 - Score: 10 ID: 65828 - Score: 138 ID: 38927 - Score: 578 ID: 55882 - Score: 222 ID: 62289 - Score: 131 ID: 23080 - Score: 64 ID: 4615 - Score: 186 ID: 88836 - Score: 232
