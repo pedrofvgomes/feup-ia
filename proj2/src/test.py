@@ -5,4 +5,4 @@ import pandas as pd
 
 df = pd.read_csv('../data/data.csv')
 
-print(df.head(3))
+print(set(df['class']))
